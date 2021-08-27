@@ -1,0 +1,4614 @@
+[
+  {
+    "LIFe Code": "5-2-03-005",
+    "GN Code": "005",
+    "Name": "Ridee Ela",
+    "MPA Code": "142L",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Dehiattakandiya"
+  },
+  {
+    "LIFe Code": "5-2-03-010",
+    "GN Code": "010",
+    "Name": "Bakmeedeniya",
+    "MPA Code": "142K",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Dehiattakandiya"
+  },
+  {
+    "LIFe Code": "5-2-03-015",
+    "GN Code": "015",
+    "Name": "Dehiattakandiya",
+    "MPA Code": "142J",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Dehiattakandiya"
+  },
+  {
+    "LIFe Code": "5-2-03-020",
+    "GN Code": "020",
+    "Name": "Kadirapura",
+    "MPA Code": "142N",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Dehiattakandiya"
+  },
+  {
+    "LIFe Code": "5-2-03-025",
+    "GN Code": "025",
+    "Name": "Mawanagama",
+    "MPA Code": "142I",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Dehiattakandiya"
+  },
+  {
+    "LIFe Code": "5-2-03-030",
+    "GN Code": "030",
+    "Name": "Lihiniyagama",
+    "MPA Code": "142H",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Dehiattakandiya"
+  },
+  {
+    "LIFe Code": "5-2-03-035",
+    "GN Code": "035",
+    "Name": "Serupitiya",
+    "MPA Code": "142G",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Dehiattakandiya"
+  },
+  {
+    "LIFe Code": "5-2-03-040",
+    "GN Code": "040",
+    "Name": "Sadamadulla",
+    "MPA Code": "142F",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Dehiattakandiya"
+  },
+  {
+    "LIFe Code": "5-2-03-045",
+    "GN Code": "045",
+    "Name": "Sandunpura",
+    "MPA Code": "142E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Dehiattakandiya"
+  },
+  {
+    "LIFe Code": "5-2-03-050",
+    "GN Code": "050",
+    "Name": "Paranagama",
+    "MPA Code": "142C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Dehiattakandiya"
+  },
+  {
+    "LIFe Code": "5-2-03-055",
+    "GN Code": "055",
+    "Name": "Ihalagama",
+    "MPA Code": "142D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Dehiattakandiya"
+  },
+  {
+    "LIFe Code": "5-2-03-060",
+    "GN Code": "060",
+    "Name": "Nawa Medagama",
+    "MPA Code": "142B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Dehiattakandiya"
+  },
+  {
+    "LIFe Code": "5-2-03-065",
+    "GN Code": "065",
+    "Name": "Wewmedagama",
+    "MPA Code": "142A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Dehiattakandiya"
+  },
+  {
+    "LIFe Code": "5-2-06-005",
+    "GN Code": "005",
+    "Name": "Galode",
+    "MPA Code": "141A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-010",
+    "GN Code": "010",
+    "Name": "Palathuruwella",
+    "MPA Code": "137C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-015",
+    "GN Code": "015",
+    "Name": "Pulungasmulla",
+    "MPA Code": "137D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-020",
+    "GN Code": "020",
+    "Name": "Serankada",
+    "MPA Code": "137A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-025",
+    "GN Code": "025",
+    "Name": "Unapana",
+    "MPA Code": "141B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-030",
+    "GN Code": "030",
+    "Name": "Hagamwela",
+    "MPA Code": "141C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-035",
+    "GN Code": "035",
+    "Name": "Kirawana",
+    "MPA Code": "140C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-040",
+    "GN Code": "040",
+    "Name": "Padiyathalawa",
+    "MPA Code": "140A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-045",
+    "GN Code": "045",
+    "Name": "Thalapitaoya Left",
+    "MPA Code": "140D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-050",
+    "GN Code": "050",
+    "Name": "Saranagama",
+    "MPA Code": "141D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-055",
+    "GN Code": "055",
+    "Name": "Pallegama",
+    "MPA Code": "141",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-060",
+    "GN Code": "060",
+    "Name": "Moradeniya",
+    "MPA Code": "137B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-065",
+    "GN Code": "065",
+    "Name": "Thalapitaoya South",
+    "MPA Code": "140B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-070",
+    "GN Code": "070",
+    "Name": "Holike",
+    "MPA Code": "138",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-075",
+    "GN Code": "075",
+    "Name": "Kehelulla",
+    "MPA Code": "140",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-080",
+    "GN Code": "080",
+    "Name": "Miriswatta",
+    "MPA Code": "138A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-085",
+    "GN Code": "085",
+    "Name": "Kolamanthalawa",
+    "MPA Code": "138B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-090",
+    "GN Code": "090",
+    "Name": "Dorakumbura",
+    "MPA Code": "139",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-095",
+    "GN Code": "095",
+    "Name": "Marangala",
+    "MPA Code": "139A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-06-100",
+    "GN Code": "100",
+    "Name": "Komana",
+    "MPA Code": "139B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Padiyathalawa"
+  },
+  {
+    "LIFe Code": "5-2-09-005",
+    "GN Code": "005",
+    "Name": "Bogamuyaya",
+    "MPA Code": "144B/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-09-010",
+    "GN Code": "010",
+    "Name": "Tempitiya",
+    "MPA Code": "145",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-09-015",
+    "GN Code": "015",
+    "Name": "Poolawala",
+    "MPA Code": "145A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-09-020",
+    "GN Code": "020",
+    "Name": "Bedirekka",
+    "MPA Code": "144C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-09-025",
+    "GN Code": "025",
+    "Name": "Unuwathura Bubula",
+    "MPA Code": "144B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-09-030",
+    "GN Code": "030",
+    "Name": "Eddapola",
+    "MPA Code": "144A/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-09-035",
+    "GN Code": "035",
+    "Name": "Thapelpola",
+    "MPA Code": "144D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-09-040",
+    "GN Code": "040",
+    "Name": "Mahaoya",
+    "MPA Code": "144",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-09-045",
+    "GN Code": "045",
+    "Name": "Samagipura",
+    "MPA Code": "136A/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-09-050",
+    "GN Code": "050",
+    "Name": "Borapola",
+    "MPA Code": "136A/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-09-055",
+    "GN Code": "055",
+    "Name": "Kelavinna",
+    "MPA Code": "136",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-09-060",
+    "GN Code": "060",
+    "Name": "Dambadeniya",
+    "MPA Code": "137A/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-09-065",
+    "GN Code": "065",
+    "Name": "Kekirihena",
+    "MPA Code": "144A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-09-070",
+    "GN Code": "070",
+    "Name": "Kudaharasgala",
+    "MPA Code": "137A/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-09-075",
+    "GN Code": "075",
+    "Name": "Lahugala",
+    "MPA Code": "137",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-09-080",
+    "GN Code": "080",
+    "Name": "Pollebedda",
+    "MPA Code": "136B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-09-085",
+    "GN Code": "085",
+    "Name": "Aranthalawa",
+    "MPA Code": "136A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Mahaoya"
+  },
+  {
+    "LIFe Code": "5-2-12-005",
+    "GN Code": "005",
+    "Name": "Piyangala",
+    "MPA Code": "W/104/5",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-010",
+    "GN Code": "010",
+    "Name": "Nugelanda North",
+    "MPA Code": "W/104/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-015",
+    "GN Code": "015",
+    "Name": "Nugelanda South",
+    "MPA Code": "W/104/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-020",
+    "GN Code": "020",
+    "Name": "Bakkiella",
+    "MPA Code": "W/104",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-025",
+    "GN Code": "025",
+    "Name": "Rajagalathenna South",
+    "MPA Code": "W/104/4",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-030",
+    "GN Code": "030",
+    "Name": "Rajagalathenna North",
+    "MPA Code": "W/104/3",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-035",
+    "GN Code": "035",
+    "Name": "Gonagolla",
+    "MPA Code": "W/104B/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-040",
+    "GN Code": "040",
+
+    "Name": "Galapitagala West",
+    "MPA Code": "W/104C/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-045",
+    "GN Code": "045",
+    "Name": "Galapitagala East",
+    "MPA Code": "W/104C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-050",
+    "GN Code": "050",
+    "Name": "Kothmale",
+    "MPA Code": "W/104A/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-055",
+    "GN Code": "055",
+    "Name": "Mayadunna",
+    "MPA Code": "W/104A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-060",
+    "GN Code": "060",
+    "Name": "Nawagiriyawa",
+    "MPA Code": "W/104B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-065",
+    "GN Code": "065",
+    "Name": "Bandaradoowa",
+    "MPA Code": "W/104B/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-070",
+    "GN Code": "070",
+    "Name": "Lathugala",
+    "MPA Code": "W/100/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-075",
+    "GN Code": "075",
+    "Name": "Bokkabedda",
+    "MPA Code": "W/100",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-080",
+    "GN Code": "080",
+    "Name": "Kohombana",
+    "MPA Code": "W/102",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-085",
+    "GN Code": "085",
+    "Name": "Walgampura",
+    "MPA Code": "W/102/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-090",
+    "GN Code": "090",
+    "Name": "Weeranketagoda",
+    "MPA Code": "W/102A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-095",
+    "GN Code": "095",
+    "Name": "Senagama North",
+    "MPA Code": "W/102A/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-100",
+    "GN Code": "100",
+    "Name": "Senagama South",
+    "MPA Code": "W/102A/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-105",
+    "GN Code": "105",
+    "Name": "Gonagala",
+    "MPA Code": "W/104C/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-110",
+    "GN Code": "110",
+    "Name": "Veheragama East",
+    "MPA Code": "W/94A/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-115",
+    "GN Code": "115",
+    "Name": "Veheragama West",
+    "MPA Code": "W/94A/3",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-120",
+    "GN Code": "120",
+    "Name": "Gamunupura",
+    "MPA Code": "W/94A/4",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-125",
+    "GN Code": "125",
+    "Name": "Siyambalawewa",
+    "MPA Code": "W/94A/5",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-130",
+    "GN Code": "130",
+    "Name": "Rajagama North",
+    "MPA Code": "W/94A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-135",
+    "GN Code": "135",
+    "Name": "Rajagama South",
+    "MPA Code": "W/94A/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-140",
+    "GN Code": "140",
+    "Name": "Suhadagama North",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-145",
+    "GN Code": "145",
+    "Name": "Suhadagama South",
+    "MPA Code": "W/93A/3",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-150",
+    "GN Code": "150",
+    "Name": "Kumarigama",
+    "MPA Code": "W/88B/3",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-155",
+    "GN Code": "155",
+    "Name": "Komariya",
+    "MPA Code": "W/88B/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-160",
+    "GN Code": "160",
+    "Name": "Udagirigama West",
+    "MPA Code": "W/88B/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-165",
+    "GN Code": "165",
+    "Name": "Udagirigama East",
+    "MPA Code": "W/88B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-170",
+    "GN Code": "170",
+    "Name": "Galahitiyagoda",
+    "MPA Code": "W/88A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-175",
+    "GN Code": "175",
+    "Name": "Mahakandiya",
+    "MPA Code": "W/100A/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-180",
+    "GN Code": "180",
+    "Name": "Kahatagasyaya",
+    "MPA Code": "W/100A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-185",
+    "GN Code": "185",
+    "Name": "Welikahagolla",
+    "MPA Code": "W/88A/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-190",
+    "GN Code": "190",
+    "Name": "Dematamalpelessa",
+    "MPA Code": "W/88A/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-195",
+    "GN Code": "195",
+    "Name": "Uhana",
+    "MPA Code": "W/88",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-200",
+    "GN Code": "200",
+
+    "Name": "Uhana Thissapura West",
+    "MPA Code": "W/88/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-205",
+    "GN Code": "205",
+
+    "Name": "Uhana Thissapura East",
+    "MPA Code": "W/88/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-210",
+    "GN Code": "210",
+    "Name": "Udayapura",
+    "MPA Code": "W/93A/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-215",
+    "GN Code": "215",
+    "Name": "Sandanadapura",
+    "MPA Code": "W/93A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-220",
+    "GN Code": "220",
+    "Name": "Weeragoda North",
+    "MPA Code": "W/93C/4",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-225",
+    "GN Code": "225",
+    "Name": "Weeragoda South",
+    "MPA Code": "W/93C/3",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-230",
+    "GN Code": "230",
+    "Name": "Dadayamthalawa West",
+    "MPA Code": "W/93B/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-235",
+    "GN Code": "235",
+    "Name": "Dadayamthalawa East",
+    "MPA Code": "W/93B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-240",
+    "GN Code": "240",
+    "Name": "Vijayapura East",
+    "MPA Code": "W/93B/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-245",
+    "GN Code": "245",
+    "Name": "Vijayapura West",
+    "MPA Code": "W/93B/3",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-250",
+    "GN Code": "250",
+    "Name": "Kumudugama",
+    "MPA Code": "W/93C/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-255",
+    "GN Code": "255",
+    "Name": "Ruhunugama",
+    "MPA Code": "W/93C/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-260",
+    "GN Code": "260",
+    "Name": "Buddhangala",
+    "MPA Code": "W/93C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-265",
+    "GN Code": "265",
+    "Name": "Bridge Camp",
+    "MPA Code": "W/88/3",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-270",
+    "GN Code": "270",
+    "Name": "Himidurawa",
+    "MPA Code": "W/88C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-12-275",
+    "GN Code": "275",
+    "Name": "Abhayapura",
+    "MPA Code": "W/88C/01",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Uhana"
+  },
+  {
+    "LIFe Code": "5-2-15-005",
+    "GN Code": "005",
+    "Name": "Dambethalawa",
+    "MPA Code": "W/86C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-010",
+    "GN Code": "010",
+    "Name": "Samapura",
+    "MPA Code": "W/89B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-015",
+    "GN Code": "015",
+    "Name": "Karangawa",
+    "MPA Code": "W/89J",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-020",
+    "GN Code": "020",
+    "Name": "Gemunupura",
+    "MPA Code": "W/89G",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-025",
+    "GN Code": "025",
+    "Name": "Thissapura",
+    "MPA Code": "W/89C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-030",
+    "GN Code": "030",
+    "Name": "Nawagampura",
+    "MPA Code": "W/89I",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-035",
+    "GN Code": "035",
+    "Name": "Senanayakepura",
+    "MPA Code": "W/89D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-040",
+    "GN Code": "040",
+    "Name": "Jayawardhanapura",
+    "MPA Code": "W/89A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-045",
+    "GN Code": "045",
+    "Name": "Indrasarapura",
+    "MPA Code": "W/89E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-050",
+    "GN Code": "050",
+    "Name": "Mihindupura",
+    "MPA Code": "W/89H",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-055",
+    "GN Code": "055",
+    "Name": "Saddhathissapura",
+    "MPA Code": "W/89F",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-060",
+    "GN Code": "060",
+    "Name": "Kotavehera",
+    "MPA Code": "W/86K",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-065",
+    "GN Code": "065",
+    "Name": "Paragahakele East",
+    "MPA Code": "W/86J",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-070",
+    "GN Code": "070",
+    "Name": "Paragahakele West",
+    "MPA Code": "W/86",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-075",
+    "GN Code": "075",
+    "Name": "Ambagahawella",
+    "MPA Code": "W/86B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-080",
+    "GN Code": "080",
+    "Name": "Ambamalthalawa",
+    "MPA Code": "W/86H",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-085",
+    "GN Code": "085",
+    "Name": "Namalthalawa",
+    "MPA Code": "W/86I",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-090",
+    "GN Code": "090",
+    "Name": "Namal Oya 02",
+    "MPA Code": "W/86G",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-095",
+    "GN Code": "095",
+    "Name": "Polwaga coloney",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-100",
+    "GN Code": "100",
+    "Name": "Wavinna North",
+    "MPA Code": "W/86D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-105",
+    "GN Code": "105",
+    "Name": "Wavinna South",
+    "MPA Code": "W/86E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-15-110",
+    "GN Code": "110",
+    "Name": "Namal Oya (i)",
+    "MPA Code": "W/86A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ampara"
+  },
+  {
+    "LIFe Code": "5-2-16-005",
+    "GN Code": "005",
+    "Name": "Central Camp 01",
+    "MPA Code": "SP/93/A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-010",
+    "GN Code": "010",
+    "Name": "Central Camp 02",
+    "MPA Code": "SP/93/B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-015",
+    "GN Code": "015",
+    "Name": "Central Camp 03",
+    "MPA Code": "SP/93C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-020",
+    "GN Code": "020",
+    "Name": "Central Camp 05",
+    "MPA Code": "SP/93E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-025",
+    "GN Code": "025",
+    "Name": "Central Camp 06",
+    "MPA Code": "SP/93/6",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-030",
+    "GN Code": "030",
+    "Name": "Central Camp 04",
+    "MPA Code": "SP/93D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-035",
+    "GN Code": "035",
+    "Name": "Chalambaikeny 03",
+    "MPA Code": "SP/94D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-040",
+    "GN Code": "040",
+    "Name": "Chalampakeny 04",
+    "MPA Code": "SP/94E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-045",
+    "GN Code": "045",
+    "Name": "Chalampakeny 05",
+    "MPA Code": "SP/94F",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-050",
+    "GN Code": "050",
+    "Name": "Chalampakeny 01",
+    "MPA Code": "SP/94A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-055",
+    "GN Code": "055",
+    "Name": "Chalambaikerny 02",
+    "MPA Code": "SP/94C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-060",
+    "GN Code": "060",
+    "Name": "Sorrikkalmunai 3",
+    "MPA Code": "SP/90B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-065",
+    "GN Code": "065",
+    "Name": "Sorrikkalmunai 1",
+    "MPA Code": "SP/90",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-070",
+    "GN Code": "070",
+    "Name": "Sorrikkalmunai 2",
+    "MPA Code": "SP/90A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-075",
+    "GN Code": "075",
+    "Name": "Chavalakade",
+    "MPA Code": "SP/93",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-080",
+    "GN Code": "080",
+    "Name": "Navithanveli 02",
+    "MPA Code": "SP/94/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-085",
+    "GN Code": "085",
+    "Name": "Annamalai 03",
+    "MPA Code": "SP/95/C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-090",
+    "GN Code": "090",
+    "Name": "Annamalai 02",
+    "MPA Code": "SP/95/B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-095",
+    "GN Code": "095",
+
+    "Name": "Navithanveli 01",
+    "MPA Code": "SP/94/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-16-100",
+    "GN Code": "100",
+
+    "Name": "Annamale 01",
+    "MPA Code": "SP/95A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Navithanvelly"
+  },
+  {
+    "LIFe Code": "5-2-18-005",
+    "GN Code": "005",
+    "Name": "Veeramunai 04",
+    "MPA Code": "92F",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-010",
+    "GN Code": "010",
+    "Name": "Sammanthurai 08",
+    "MPA Code": "81",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-015",
+    "GN Code": "015",
+    "Name": "Sammanthurai 06",
+    "MPA Code": "80",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-020",
+    "GN Code": "020",
+    "Name": "Sammanthurai Tamil Div.01",
+    "MPA Code": "77",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-025",
+    "GN Code": "025",
+    "Name": "Sammanthurai Tamil Div.04",
+    "MPA Code": "77E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-030",
+    "GN Code": "030",
+    "Name": "Sammanthurai Tamil Div.02",
+    "MPA Code": "77C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-035",
+    "GN Code": "035",
+    "Name": "Sammanthurai 01",
+    "MPA Code": "78C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-040",
+    "GN Code": "040",
+    "Name": "Sammanthurai 02",
+    "MPA Code": "78",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-045",
+    "GN Code": "045",
+    "Name": "Sammanthurai 05",
+    "MPA Code": "78B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-050",
+    "GN Code": "050",
+
+    "Name": "Karuwaddukal 01",
+    "MPA Code": "92A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-055",
+    "GN Code": "055",
+
+    "Name": "Karuwaddukal 03",
+    "MPA Code": "92H",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-060",
+    "GN Code": "060",
+    "Name": "Karuwaddukal 02",
+    "MPA Code": "92G",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-065",
+    "GN Code": "065",
+    "Name": "Sammanthurai 11",
+    "MPA Code": "92C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-070",
+    "GN Code": "070",
+    "Name": "Sammanthurai 10",
+    "MPA Code": "92B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-075",
+    "GN Code": "075",
+    "Name": "Sammanthurai 09",
+    "MPA Code": "81A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-080",
+    "GN Code": "080",
+    "Name": "Sammanthurai 07",
+    "MPA Code": "80A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-085",
+    "GN Code": "085",
+    "Name": "Sammanthurai 04",
+    "MPA Code": "78A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-090",
+    "GN Code": "090",
+    "Name": "Sammanthurai Tamil Div.03",
+    "MPA Code": "77D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-095",
+    "GN Code": "095",
+
+    "Name": "Maddakalaputharavai 02",
+    "MPA Code": "77B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-100",
+    "GN Code": "100",
+
+    "Name": "Maddakalaputharavai 01",
+    "MPA Code": "77A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-105",
+    "GN Code": "105",
+
+    "Name": "Sammanthurai 03",
+    "MPA Code": "78D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-110",
+    "GN Code": "110",
+    "Name": "Veeramunai 03",
+    "MPA Code": "92I",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-115",
+    "GN Code": "115",
+    "Name": "Veeramunai 02",
+    "MPA Code": "92E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-120",
+    "GN Code": "120",
+    "Name": "Veeramunai 01",
+    "MPA Code": "92",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-125",
+    "GN Code": "125",
+    "Name": "Sammanthurai 12",
+    "MPA Code": "92D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-130",
+    "GN Code": "130",
+    "Name": "Malwatte 02",
+    "MPA Code": "89D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-135",
+    "GN Code": "135",
+    "Name": "Block 'J' East 01",
+    "MPA Code": "79",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-140",
+    "GN Code": "140",
+    "Name": "Block 'J' West 02",
+    "MPA Code": "79R",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-145",
+    "GN Code": "145",
+
+    "Name": "Kallarichchel 02",
+    "MPA Code": "79M",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-150",
+    "GN Code": "150",
+    "Name": "Block 'J' West 01",
+    "MPA Code": "79A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-155",
+    "GN Code": "155",
+
+    "Name": "Kallarichchel 03",
+    "MPA Code": "79N",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-160",
+    "GN Code": "160",
+
+    "Name": "Udanga 01",
+    "MPA Code": "79B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-165",
+    "GN Code": "165",
+
+    "Name": "Udanga 02",
+    "MPA Code": "79G",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-170",
+    "GN Code": "170",
+
+    "Name": "Vilinayadi 01",
+    "MPA Code": "79C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-175",
+    "GN Code": "175",
+
+    "Name": "Sennelgramam 01",
+    "MPA Code": "79E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-180",
+    "GN Code": "180",
+    "Name": "Sennelgramam 02",
+    "MPA Code": "79H",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-185",
+    "GN Code": "185",
+    "Name": "Block 'J' East 03",
+    "MPA Code": "79L",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-190",
+    "GN Code": "190",
+    "Name": "Block 'J' East 02",
+    "MPA Code": "79K",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-195",
+    "GN Code": "195",
+
+    "Name": "Malayadikiramam 01",
+    "MPA Code": "79F",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-200",
+    "GN Code": "200",
+
+    "Name": "Malayadikiramam 03",
+    "MPA Code": "79P",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-205",
+    "GN Code": "205",
+
+    "Name": "Malwatte 03",
+    "MPA Code": "89E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-210",
+    "GN Code": "210",
+
+    "Name": "Malwatte 01",
+    "MPA Code": "89",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-215",
+    "GN Code": "215",
+    "Name": "Malkampiddy",
+    "MPA Code": "82",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-220",
+    "GN Code": "220",
+
+    "Name": "Malayadikiramam 04",
+    "MPA Code": "79Q",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-225",
+    "GN Code": "225",
+
+    "Name": "Malayadikiramam 02",
+    "MPA Code": "79O",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-230",
+    "GN Code": "230",
+
+    "Name": "Vilinayadi 02",
+    "MPA Code": "79I",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-235",
+    "GN Code": "235",
+
+    "Name": "Vilinayadi 03",
+    "MPA Code": "79J",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-240",
+    "GN Code": "240",
+
+    "Name": "Kallarichchel 01",
+    "MPA Code": "79D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-245",
+    "GN Code": "245",
+
+    "Name": "Valathapitty 02",
+    "MPA Code": "89C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-250",
+    "GN Code": "250",
+
+    "Name": "Valathapitty 01",
+    "MPA Code": "89B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-18-255",
+    "GN Code": "255",
+
+    "Name": "Malwatte 04",
+    "MPA Code": "89A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Samanthurai"
+  },
+  {
+    "LIFe Code": "5-2-21-005",
+    "GN Code": "005",
+    "Name": "Kalmunai-1",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-010",
+    "GN Code": "010",
+    "Name": "Kalmunai-1A",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-015",
+    "GN Code": "015",
+    "Name": "Kalmunai-1B",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-020",
+    "GN Code": "020",
+    "Name": "Kalmunai-1C",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-025",
+    "GN Code": "025",
+    "Name": "Kalmunai-1D",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-030",
+    "GN Code": "030",
+    "Name": "Kalmunai-1E",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-035",
+    "GN Code": "035",
+    "Name": "Kalmunai-2",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-040",
+    "GN Code": "040",
+    "Name": "Kalmunai-2A",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-045",
+    "GN Code": "045",
+    "Name": "Kalmunai-2B",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-050",
+    "GN Code": "050",
+    "Name": "Kalmunai-3",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-055",
+    "GN Code": "055",
+    "Name": "Kalmunai-3A",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-060",
+    "GN Code": "060",
+    "Name": "Pandirippu-1",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-065",
+    "GN Code": "065",
+    "Name": "Pandirippu-1A",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-070",
+    "GN Code": "070",
+    "Name": "Pandirippu-1B",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-075",
+    "GN Code": "075",
+    "Name": "Pandirippu-1C",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-080",
+    "GN Code": "080",
+    "Name": "Pandirippu-2",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-085",
+    "GN Code": "085",
+    "Name": "Pandirippu-2A",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-090",
+    "GN Code": "090",
+    "Name": "Pandirippu-2B",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-095",
+    "GN Code": "095",
+    "Name": "Pandirippu-2C",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-100",
+    "GN Code": "100",
+    "Name": "Natpaddimunai TD 1",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-105",
+    "GN Code": "105",
+    "Name": "Natpaddimunai TD 2",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-110",
+    "GN Code": "110",
+    "Name": "Natpaddimunai TD 3",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-115",
+    "GN Code": "115",
+    "Name": "Chennaipendirippu-1",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-120",
+    "GN Code": "120",
+    "Name": "Chennaipendirippu-1A",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-125",
+    "GN Code": "125",
+    "Name": "Chennaipendirippu-1B",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-130",
+    "GN Code": "130",
+    "Name": "Periyaneelavanai-1",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-135",
+    "GN Code": "135",
+    "Name": "Periyaneelavanai-1A",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-140",
+    "GN Code": "140",
+    "Name": "Periyaneelavanai-1B",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-21-145",
+    "GN Code": "145",
+    "Name": "Periyaneelavanai-2",
+    "MPA Code": "",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": " kalmunayi north"
+  },
+  {
+    "LIFe Code": "5-2-24-005",
+    "GN Code": "005",
+    "Name": "Periyaneelavanai Muslim Section 01",
+    "MPA Code": "KP/72",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-010",
+    "GN Code": "010",
+    "Name": "Periyaneelavanai Muslim Section 02",
+    "MPA Code": "KP/72A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-015",
+    "GN Code": "015",
+
+    "Name": "Maruthamunai 01",
+    "MPA Code": "KP/67B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-020",
+    "GN Code": "020",
+
+    "Name": "Maruthamunai 02",
+    "MPA Code": "KP/67",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-025",
+    "GN Code": "025",
+
+    "Name": "Maruthamunai 03",
+    "MPA Code": "KP/67A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-030",
+    "GN Code": "030",
+
+    "Name": "Maruthamunai 04",
+    "MPA Code": "KP/67C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-035",
+    "GN Code": "035",
+
+    "Name": "Maruthamunai 05",
+    "MPA Code": "KP/67D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-040",
+    "GN Code": "040",
+
+    "Name": "Maruthamunai 06",
+    "MPA Code": "KP/68",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-045",
+    "GN Code": "045",
+    "Name": "Natpittimanai Muslim Division 03",
+    "MPA Code": "KP/64",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-050",
+    "GN Code": "050",
+
+    "Name": "Natpittimunai Muslim Division 02",
+    "MPA Code": "KP/64B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-055",
+    "GN Code": "055",
+    "Name": "Natpittimunai Muslim Division 01",
+    "MPA Code": "KP/64A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-060",
+    "GN Code": "060",
+    "Name": "Natpittimunai Muslim Diviosion 05",
+    "MPA Code": "KP/64D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-065",
+    "GN Code": "065",
+    "Name": "Natpittimunai Muslim Division 04",
+    "MPA Code": "KP/64C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-070",
+    "GN Code": "070",
+    "Name": "Islamabad & Kalmunai Town",
+    "MPA Code": "KP/61/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-075",
+    "GN Code": "075",
+
+    "Name": "Kalmunai Muslim Section",
+    "MPA Code": "KP/59",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-080",
+    "GN Code": "080",
+
+    "Name": "Kalmunaikudy 01",
+    "MPA Code": "KP/58",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-085",
+    "GN Code": "085",
+
+    "Name": "Kalmunaikudy 03",
+    "MPA Code": "KP/58A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-090",
+    "GN Code": "090",
+
+    "Name": "Kalmunaikudy 02",
+    "MPA Code": "KP/58C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-095",
+    "GN Code": "095",
+
+    "Name": "Kalmunaikudy 04",
+    "MPA Code": "KP/58B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-100",
+    "GN Code": "100",
+
+    "Name": "Kalmunaikudy 05",
+    "MPA Code": "KP/56",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-105",
+    "GN Code": "105",
+
+    "Name": "Kalmunaikudy 06",
+    "MPA Code": "KP/56F",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-110",
+    "GN Code": "110",
+
+    "Name": "Kalmunaikudy 08",
+    "MPA Code": "KP/56D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-115",
+    "GN Code": "115",
+    "Name": "Kalmunaikudy 09",
+    "MPA Code": "KP/56B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-120",
+    "GN Code": "120",
+    "Name": "Kalmunaikudy 07",
+    "MPA Code": "KP/56E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-125",
+    "GN Code": "125",
+    "Name": "Kalmunaikudy 10",
+    "MPA Code": "KP/56C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-130",
+    "GN Code": "130",
+    "Name": "Kalmunaikudy 11",
+    "MPA Code": "KP/56A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-135",
+    "GN Code": "135",
+    "Name": "Kalmunaikudy 12",
+    "MPA Code": "KP/55",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-140",
+    "GN Code": "140",
+    "Name": "Kalmunaikudy 13",
+    "MPA Code": "KP/54A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-24-145",
+    "GN Code": "145",
+
+    "Name": "Kalmunaikudy 14",
+    "MPA Code": "KP/54",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Kalmunai"
+  },
+  {
+    "LIFe Code": "5-2-25-005",
+    "GN Code": "005",
+    "Name": "Sainthamaruthu 1",
+    "MPA Code": "KP/53",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-25-010",
+    "GN Code": "010",
+    "Name": "Sainthamaruthu 2",
+    "MPA Code": "KP/53A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-25-015",
+    "GN Code": "015",
+    "Name": "Sainthamaruthu 3",
+    "MPA Code": "KP/52",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-25-020",
+    "GN Code": "020",
+    "Name": "Sainthamaruthu 4",
+    "MPA Code": "KP/52B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-25-025",
+    "GN Code": "025",
+    "Name": "Sainthamaruthu 5",
+    "MPA Code": "KP/52A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-25-030",
+    "GN Code": "030",
+    "Name": "Sainthamaruthu 6",
+    "MPA Code": "KP/52C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-25-035",
+    "GN Code": "035",
+    "Name": "Sainthamaruthu 7",
+    "MPA Code": "KP/50A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-25-040",
+    "GN Code": "040",
+    "Name": "Sainthamaruthu 8",
+    "MPA Code": "KP/50B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-25-045",
+    "GN Code": "045",
+    "Name": "Sainthamaruthu 9",
+    "MPA Code": "KP/50",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-25-050",
+    "GN Code": "050",
+    "Name": "Sainthamaruthu 10",
+    "MPA Code": "KP/50C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-25-055",
+    "GN Code": "055",
+    "Name": "Sainthamaruthu 11",
+    "MPA Code": "KP/47A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-25-060",
+    "GN Code": "060",
+    "Name": "Sainthamaruthu 13",
+    "MPA Code": "KP/47D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-25-065",
+    "GN Code": "065",
+    "Name": "Sainthamaruthu 12",
+    "MPA Code": "KP/47B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-25-070",
+    "GN Code": "070",
+    "Name": "Sainthamaruthu 17",
+    "MPA Code": "KP/47",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-25-075",
+    "GN Code": "075",
+
+    "Name": "Sainthamaruthu 14",
+    "MPA Code": "KP/47E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-25-080",
+    "GN Code": "080",
+    "Name": "Sainthamaruthu 15",
+    "MPA Code": "KP/47F",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-25-085",
+    "GN Code": "085",
+    "Name": "Sainthamaruthu 16",
+    "MPA Code": "KP/47C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Sainthamarathu"
+  },
+  {
+    "LIFe Code": "5-2-27-005",
+    "GN Code": "005",
+    "Name": "Mavadippalli West",
+    "MPA Code": "43A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-27-010",
+    "GN Code": "010",
+    "Name": "Mavadippalli East",
+    "MPA Code": "43",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-27-015",
+    "GN Code": "015",
+    "Name": "Maligaikadu West",
+    "MPA Code": "44A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-27-020",
+    "GN Code": "020",
+    "Name": "Maligaikadu Central",
+    "MPA Code": "44B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-27-025",
+    "GN Code": "025",
+    "Name": "Maligaikadu East",
+    "MPA Code": "44C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-27-030",
+    "GN Code": "030",
+
+    "Name": "Karaitivu 03",
+    "MPA Code": "45A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-27-035",
+    "GN Code": "035",
+
+    "Name": "Karaitivu 02",
+    "MPA Code": "45",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-27-040",
+    "GN Code": "040",
+    "Name": "Karaitivu 01",
+    "MPA Code": "44",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-27-045",
+    "GN Code": "045",
+    "Name": "Karaitivu 06",
+    "MPA Code": "44D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-27-050",
+    "GN Code": "050",
+    "Name": "Karaitivu 05",
+    "MPA Code": "45C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-27-055",
+    "GN Code": "055",
+
+    "Name": "Karaitivu 04",
+    "MPA Code": "45B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-27-060",
+    "GN Code": "060",
+
+    "Name": "Karaitivu 08",
+    "MPA Code": "42B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-27-065",
+    "GN Code": "065",
+
+    "Name": "Karaitivu 07",
+    "MPA Code": "42",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-27-070",
+    "GN Code": "070",
+    "Name": "Karaitivu 10",
+    "MPA Code": "42A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-27-075",
+    "GN Code": "075",
+    "Name": "Karaitivu 09",
+    "MPA Code": "42C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-27-080",
+    "GN Code": "080",
+    "Name": "Karaitivu 11",
+    "MPA Code": "42D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-27-085",
+    "GN Code": "085",
+    "Name": "Karaitivu 12",
+    "MPA Code": "42E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Karaitivu"
+  },
+  {
+    "LIFe Code": "5-2-30-005",
+    "GN Code": "005",
+    "Name": "Nintavur 24",
+    "MPA Code": "39C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-010",
+    "GN Code": "010",
+    "Name": "Nintavur 11",
+    "MPA Code": "41A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-015",
+    "GN Code": "015",
+    "Name": "Nintavur 12",
+    "MPA Code": "41B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-020",
+    "GN Code": "020",
+
+    "Name": "Nintavur 01",
+    "MPA Code": "41",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-025",
+    "GN Code": "025",
+
+    "Name": "Nintavur 02",
+    "MPA Code": "40",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-030",
+    "GN Code": "030",
+    "Name": "Nintavur 13",
+    "MPA Code": "40A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-035",
+    "GN Code": "035",
+
+    "Name": "Nintavur 14",
+    "MPA Code": "39A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-040",
+    "GN Code": "040",
+    "Name": "Nintavur 15",
+    "MPA Code": "39B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-045",
+    "GN Code": "045",
+
+    "Name": "Nintavur 03",
+    "MPA Code": "39",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-050",
+    "GN Code": "050",
+
+    "Name": "Nintavur 04",
+    "MPA Code": "38",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-055",
+    "GN Code": "055",
+    "Name": "Nintavur 16",
+    "MPA Code": "38B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-060",
+    "GN Code": "060",
+    "Name": "Nintavur 17",
+    "MPA Code": "38C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-065",
+    "GN Code": "065",
+    "Name": "Nintavur 18",
+    "MPA Code": "37D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-070",
+    "GN Code": "070",
+
+    "Name": "Nintavur 05",
+    "MPA Code": "37",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-075",
+    "GN Code": "075",
+
+    "Name": "Nintavur 06",
+    "MPA Code": "38A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-080",
+    "GN Code": "080",
+
+    "Name": "Nintavur 19",
+    "MPA Code": "38D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-085",
+    "GN Code": "085",
+
+    "Name": "Nintavur 25",
+    "MPA Code": "38E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-090",
+    "GN Code": "090",
+
+    "Name": "Nintavur 20",
+    "MPA Code": "37E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-095",
+    "GN Code": "095",
+    "Name": "Nintavur 07",
+    "MPA Code": "37A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-100",
+    "GN Code": "100",
+
+    "Name": "Nintavur 08",
+    "MPA Code": "37B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-105",
+    "GN Code": "105",
+
+    "Name": "Nintavur 21",
+    "MPA Code": "37F",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-110",
+    "GN Code": "110",
+    "Name": "Nintavur 22",
+    "MPA Code": "37G",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-115",
+    "GN Code": "115",
+    "Name": "Nintavur 09",
+    "MPA Code": "37C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-120",
+    "GN Code": "120",
+    "Name": "Nintavur 10",
+    "MPA Code": "36A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-30-125",
+    "GN Code": "125",
+    "Name": "Nintavur 23",
+    "MPA Code": "36A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Ninthavur"
+  },
+  {
+    "LIFe Code": "5-2-33-005",
+    "GN Code": "005",
+    "Name": "Deegawapi-01",
+    "MPA Code": "AD/35A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-010",
+    "GN Code": "010",
+
+    "Name": "Oluvil 01",
+    "MPA Code": "AD/35",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-015",
+    "GN Code": "015",
+
+    "Name": "Oluvil 04",
+    "MPA Code": "AD/35E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-020",
+    "GN Code": "020",
+
+    "Name": "Oluvil 06",
+    "MPA Code": "AD/35C/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-025",
+    "GN Code": "025",
+
+    "Name": "Oluvil 05",
+    "MPA Code": "AD/35C/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-030",
+    "GN Code": "030",
+
+    "Name": "Oluvil 03",
+    "MPA Code": "AD/35C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-035",
+    "GN Code": "035",
+
+    "Name": "Oluvil 02",
+    "MPA Code": "AD/35B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-040",
+    "GN Code": "040",
+    "Name": "Palamunai-06",
+    "MPA Code": "AD/34B/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-045",
+    "GN Code": "045",
+    "Name": "Oluvil 07",
+    "MPA Code": "AD/35C/3",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-050",
+    "GN Code": "050",
+    "Name": "Palamunai-02",
+    "MPA Code": "AD/34A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-055",
+    "GN Code": "055",
+    "Name": "Palamunai-01",
+    "MPA Code": "AD/34",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-060",
+    "GN Code": "060",
+
+    "Name": "Palamunai 03",
+    "MPA Code": "AD/34B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-065",
+    "GN Code": "065",
+    "Name": "Palamunai-04",
+    "MPA Code": "AD/34A/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-070",
+    "GN Code": "070",
+
+    "Name": "Palamunai 05",
+    "MPA Code": "AD/34A/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-075",
+    "GN Code": "075",
+
+    "Name": "Addalaichenai 02",
+    "MPA Code": "AD/32",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-080",
+    "GN Code": "080",
+    "Name": "Addalaichenai 09",
+    "MPA Code": "AD/33A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-085",
+    "GN Code": "085",
+    "Name": "Addalaichenai 10",
+    "MPA Code": "AD/33B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-090",
+    "GN Code": "090",
+    "Name": "Addalaichenai 08",
+    "MPA Code": "AD/30C/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-095",
+    "GN Code": "095",
+    "Name": "Addalaichenai 06",
+    "MPA Code": "AD/30C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-100",
+    "GN Code": "100",
+    "Name": "Addalaichenai 01",
+    "MPA Code": "AD/33",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-105",
+    "GN Code": "105",
+    "Name": "Addalaichenai 11",
+    "MPA Code": "AD/31A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-110",
+    "GN Code": "110",
+
+    "Name": "Addalaichenai 03",
+    "MPA Code": "AD/30A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-115",
+    "GN Code": "115",
+
+    "Name": "Addalaichenai 07",
+    "MPA Code": "AD/30C/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-120",
+    "GN Code": "120",
+
+    "Name": "Addalaichenai 12",
+    "MPA Code": "AD/30A/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-125",
+    "GN Code": "125",
+
+    "Name": "Addalaichenai 14",
+    "MPA Code": "AD/30E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-130",
+    "GN Code": "130",
+
+    "Name": "Addalaichenai 13",
+    "MPA Code": "AD/30D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-135",
+    "GN Code": "135",
+
+    "Name": "Addalaichenai 04",
+    "MPA Code": "AD/30",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-140",
+    "GN Code": "140",
+
+    "Name": "Addalaichenai 15",
+    "MPA Code": "AD/30B/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-145",
+    "GN Code": "145",
+    "Name": "Addalaichenai 16",
+    "MPA Code": "AD/30B/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-150",
+    "GN Code": "150",
+    "Name": "Addalaichenai 05",
+    "MPA Code": "AD/30B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-155",
+    "GN Code": "155",
+    "Name": "Addalaichenai 17",
+    "MPA Code": "AD/30B/3",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-33-160",
+    "GN Code": "160",
+
+    "Name": "Deegawapiya 02",
+    "MPA Code": "AD/35D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Addalaichenai"
+  },
+  {
+    "LIFe Code": "5-2-34-005",
+    "GN Code": "005",
+
+    "Name": "Irakkamam 07",
+    "MPA Code": "IR84C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Irakkamam"
+  },
+  {
+    "LIFe Code": "5-2-34-010",
+    "GN Code": "010",
+
+    "Name": "Varipathanchenai 01",
+    "MPA Code": "IR85",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Irakkamam"
+  },
+  {
+    "LIFe Code": "5-2-34-015",
+    "GN Code": "015",
+
+    "Name": "Irakkamam 02",
+    "MPA Code": "IR84G",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Irakkamam"
+  },
+  {
+    "LIFe Code": "5-2-34-020",
+    "GN Code": "020",
+
+    "Name": "Irakkamam 08",
+    "MPA Code": "IR84D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Irakkamam"
+  },
+  {
+    "LIFe Code": "5-2-34-025",
+    "GN Code": "025",
+    "Name": "Irakkamam 09",
+    "MPA Code": "IR84H",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Irakkamam"
+  },
+  {
+    "LIFe Code": "5-2-34-030",
+    "GN Code": "030",
+
+    "Name": "Irakkamam 06",
+    "MPA Code": "IR84",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Irakkamam"
+  },
+  {
+    "LIFe Code": "5-2-34-035",
+    "GN Code": "035",
+    "Name": "Irakkamam 01",
+    "MPA Code": "IR84B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Irakkamam"
+  },
+  {
+    "LIFe Code": "5-2-34-040",
+    "GN Code": "040",
+    "Name": "Irakkamam 03",
+    "MPA Code": "IR84A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Irakkamam"
+  },
+  {
+    "LIFe Code": "5-2-34-045",
+    "GN Code": "045",
+    "Name": "Varipathanchenai 03",
+    "MPA Code": "IR85B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Irakkamam"
+  },
+  {
+    "LIFe Code": "5-2-34-050",
+    "GN Code": "050",
+    "Name": "Irakkamam 05",
+    "MPA Code": "IR84F",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Irakkamam"
+  },
+  {
+    "LIFe Code": "5-2-34-055",
+    "GN Code": "055",
+    "Name": "Irakkamam 04",
+    "MPA Code": "IR84E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Irakkamam"
+  },
+  {
+    "LIFe Code": "5-2-34-060",
+    "GN Code": "060",
+    "Name": "Varipathanchenai 02",
+    "MPA Code": "IR85A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Irakkamam"
+  },
+  {
+    "LIFe Code": "5-2-36-005",
+    "GN Code": "005",
+    "Name": "Alim Nagar",
+    "MPA Code": "AP/20A/4",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-010",
+    "GN Code": "010",
+    "Name": "Issanganicheemai",
+    "MPA Code": "AP/20A/3",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-015",
+    "GN Code": "015",
+
+    "Name": "Pallikudiyiruppu 02",
+    "MPA Code": "AP/20A2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-020",
+    "GN Code": "020",
+    "Name": "Paddiyadippiddy",
+    "MPA Code": "AP/20A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-025",
+    "GN Code": "025",
+    "Name": "Akkaraipattu-6",
+    "MPA Code": "AP/20",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-030",
+    "GN Code": "030",
+    "Name": "Akkaraipattu-5",
+    "MPA Code": "AP/19",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-035",
+    "GN Code": "035",
+    "Name": "Akkaraipattu-4",
+    "MPA Code": "AP/18",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-040",
+    "GN Code": "040",
+    "Name": "Akkaraipattu-16",
+    "MPA Code": "AP/17A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-045",
+    "GN Code": "045",
+    "Name": "Akkaraipattu-15",
+    "MPA Code": "AP/16A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-050",
+    "GN Code": "050",
+    "Name": "Akkaraipattu-14",
+    "MPA Code": "AP/15/5",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-055",
+    "GN Code": "055",
+    "Name": "Akkaraipattu-13",
+    "MPA Code": "AP/15/4",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-060",
+    "GN Code": "060",
+    "Name": "Akkaraipattu-12",
+    "MPA Code": "AP/15/3",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-065",
+    "GN Code": "065",
+    "Name": "Akkaraipattu-11",
+    "MPA Code": "AP/15/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-070",
+    "GN Code": "070",
+    "Name": "Akkaraipattu-1",
+    "MPA Code": "AP/15",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-075",
+    "GN Code": "075",
+    "Name": "Town Division-3",
+    "MPA Code": "AP/15A/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-080",
+    "GN Code": "080",
+    "Name": "Akkaraipattu-10",
+    "MPA Code": "AP/15/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-085",
+    "GN Code": "085",
+    "Name": "Town Division-2",
+    "MPA Code": "AP/15A/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-090",
+    "GN Code": "090",
+    "Name": "Akkaraipattu-2",
+    "MPA Code": "AP/16",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-095",
+    "GN Code": "095",
+    "Name": "Akkaraipattu-3",
+    "MPA Code": "AP/17",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-100",
+    "GN Code": "100",
+    "Name": "Akkaraipattu-17",
+    "MPA Code": "AP/18A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-105",
+    "GN Code": "105",
+    "Name": "Akkaraipattu-18",
+    "MPA Code": "AP/19A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-110",
+    "GN Code": "110",
+    "Name": "Akkaraipattu-20",
+    "MPA Code": "AP/20/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-115",
+    "GN Code": "115",
+    "Name": "Akkaraipattu-21",
+    "MPA Code": "AP/20/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-120",
+    "GN Code": "120",
+    "Name": "Pallikudiyiruppu-1",
+    "MPA Code": "AP/20A1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-125",
+    "GN Code": "125",
+    "Name": "Akkaraipattu-19",
+    "MPA Code": "AP/18/19/20",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-130",
+    "GN Code": "130",
+    "Name": "Town Division-1",
+    "MPA Code": "AP/15A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-135",
+    "GN Code": "135",
+    "Name": "Town Division-5",
+    "MPA Code": "AP/15A/4",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-36-140",
+    "GN Code": "140",
+    "Name": "Town Division-4",
+    "MPA Code": "AP/15A/3",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Akkaraipattu"
+  },
+  {
+    "LIFe Code": "5-2-39-005",
+    "GN Code": "005",
+    "Name": "Akkaraipattu 8/1",
+    "MPA Code": "AV/10",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-010",
+    "GN Code": "010",
+    "Name": "Akkaraipattu 9",
+    "MPA Code": "AP/22A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-015",
+    "GN Code": "015",
+    "Name": "Akkaraipattu 8/3",
+    "MPA Code": "AV/12",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-020",
+    "GN Code": "020",
+    "Name": "Akkaraipattu 8/2",
+    "MPA Code": "AV/11",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-025",
+    "GN Code": "025",
+    "Name": "Akkaraipattu 7/1",
+    "MPA Code": "AV/05",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-030",
+    "GN Code": "030",
+    "Name": "Akkaraipattu 7/2",
+    "MPA Code": "AV/06",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-035",
+    "GN Code": "035",
+    "Name": "Wachchikuda",
+    "MPA Code": "AV/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-040",
+    "GN Code": "040",
+    "Name": "Kannakikiramam 01",
+    "MPA Code": "AV/20",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-045",
+    "GN Code": "045",
+    "Name": "Aligambai",
+    "MPA Code": "Av/22",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-050",
+    "GN Code": "050",
+    "Name": "Akkaraipattu 7/4",
+    "MPA Code": "AV/08",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-055",
+    "GN Code": "055",
+    "Name": "Akkaraipattu 7/3",
+    "MPA Code": "AV/07",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-060",
+    "GN Code": "060",
+    "Name": "Akkaraipattu 7",
+    "MPA Code": "AP/21",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-065",
+    "GN Code": "065",
+    "Name": "Akkaraipattu 8",
+    "MPA Code": "AP/22",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-070",
+    "GN Code": "070",
+    "Name": "Sinnamugathuwaram",
+    "MPA Code": "AV/14",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-075",
+    "GN Code": "075",
+    "Name": "Kolavil 03",
+    "MPA Code": "AP/23",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-080",
+    "GN Code": "080",
+    "Name": "Navatkadu",
+    "MPA Code": "AV/03",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-085",
+    "GN Code": "085",
+    "Name": "Kolavil 02",
+    "MPA Code": "AV/17",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-090",
+    "GN Code": "090",
+    "Name": "Kolavil 01",
+    "MPA Code": "AV/16",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-095",
+    "GN Code": "095",
+    "Name": "Panamkadu",
+    "MPA Code": "AP/13",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-100",
+    "GN Code": "100",
+    "Name": "Sinnapanamkadu",
+    "MPA Code": "AV/19",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-105",
+    "GN Code": "105",
+    "Name": "Kannakikiramam 02",
+    "MPA Code": "AV/21",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-39-110",
+    "GN Code": "110",
+    "Name": "Alayadivembu",
+    "MPA Code": "AP/21A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Alayadiwembu"
+  },
+  {
+    "LIFe Code": "5-2-42-005",
+    "GN Code": "005",
+    "Name": "Keenawatta",
+    "MPA Code": "W/27E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-010",
+    "GN Code": "010",
+    "Name": "Muwangala",
+    "MPA Code": "W/27B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-015",
+    "GN Code": "015",
+    "Name": "Galmaduwa",
+    "MPA Code": "W/27H",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-020",
+    "GN Code": "020",
+    "Name": "Uksiripura",
+    "MPA Code": "W/27I",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-025",
+    "GN Code": "025",
+    "Name": "Helagampura",
+    "MPA Code": "W/27G",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-030",
+    "GN Code": "030",
+    "Name": "Karalewa",
+    "MPA Code": "W/27F",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-035",
+    "GN Code": "035",
+    "Name": "Hingurana",
+    "MPA Code": "W/27A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-040",
+    "GN Code": "040",
+    "Name": "Diviyagala",
+    "MPA Code": "W/27D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-045",
+    "GN Code": "045",
+    "Name": "Padagoda",
+    "MPA Code": "W/28",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-050",
+    "GN Code": "050",
+    "Name": "Pahalalanda",
+    "MPA Code": "W/28A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-055",
+    "GN Code": "055",
+    "Name": "Hindakalugama",
+    "MPA Code": "W/28D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-060",
+    "GN Code": "060",
+    "Name": "Kalugolla",
+    "MPA Code": "W/28E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-065",
+    "GN Code": "065",
+    "Name": "Dewalahida",
+    "MPA Code": "W/26E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-070",
+    "GN Code": "070",
+    "Name": "Koknahara",
+    "MPA Code": "W/28B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-075",
+    "GN Code": "075",
+    "Name": "Moragahapallama",
+    "MPA Code": "W/28C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-080",
+    "GN Code": "080",
+    "Name": "Damana",
+    "MPA Code": "W/27",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-085",
+    "GN Code": "085",
+    "Name": "Alahena",
+    "MPA Code": "W/27C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-090",
+    "GN Code": "090",
+    "Name": "Madawalalanda",
+    "MPA Code": "W/24A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-095",
+    "GN Code": "095",
+    "Name": "Madana",
+    "MPA Code": "W/24",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-100",
+    "GN Code": "100",
+    "Name": "Eggaloya",
+    "MPA Code": "W/24B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-105",
+    "GN Code": "105",
+    "Name": "Kethsirigama",
+    "MPA Code": "W/26A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-110",
+    "GN Code": "110",
+    "Name": "Galkanda",
+    "MPA Code": "W/26D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-115",
+    "GN Code": "115",
+    "Name": "Pallanoya",
+    "MPA Code": "W/26B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-120",
+    "GN Code": "120",
+    "Name": "Kivulegama",
+    "MPA Code": "W/26C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-125",
+    "GN Code": "125",
+    "Name": "Thimbirigolla",
+    "MPA Code": "W/24C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-130",
+    "GN Code": "130",
+    "Name": "Ambalanoya",
+    "MPA Code": "W/24D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-135",
+    "GN Code": "135",
+    "Name": "Veheragala",
+    "MPA Code": "W/25C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-140",
+    "GN Code": "140",
+    "Name": "18A . Janapadaya",
+    "MPA Code": "W/25E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-145",
+    "GN Code": "145",
+    "Name": "Thottama",
+    "MPA Code": "W/25",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-150",
+    "GN Code": "150",
+    "Name": "Kumana",
+    "MPA Code": "W/25D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-155",
+    "GN Code": "155",
+    "Name": "Wadinagala",
+    "MPA Code": "W/26",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-160",
+    "GN Code": "160",
+    "Name": "Pannalgama",
+    "MPA Code": "W/25A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-42-165",
+    "GN Code": "165",
+    "Name": "Bakmitiyawa",
+    "MPA Code": "W/25B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Damana"
+  },
+  {
+    "LIFe Code": "5-2-45-005",
+    "GN Code": "005",
+    "Name": "Thambattai 2",
+    "MPA Code": "TK/12A/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-010",
+    "GN Code": "010",
+    "Name": "Thambattai 1",
+    "MPA Code": "TK/12A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-015",
+    "GN Code": "015",
+    "Name": "Thambiluvil 1 West",
+    "MPA Code": "TK/12",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-020",
+    "GN Code": "020",
+    "Name": "Thambiluvil 1 East",
+    "MPA Code": "TK/12C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-025",
+    "GN Code": "025",
+    "Name": "Thambiluvil 1 South",
+    "MPA Code": "TK/12B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-030",
+    "GN Code": "030",
+    "Name": "Sagamam",
+    "MPA Code": "TK/11C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-035",
+    "GN Code": "035",
+    "Name": "Thambiluvil 2 West",
+    "MPA Code": "TK/11B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-040",
+    "GN Code": "040",
+    "Name": "Thambiluvil 2 North",
+    "MPA Code": "TK/11",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-045",
+    "GN Code": "045",
+    "Name": "Thambiluvil 2 East",
+    "MPA Code": "TK/11A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-050",
+    "GN Code": "050",
+    "Name": "Thirukkovil 3",
+    "MPA Code": "TK/10/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-055",
+    "GN Code": "055",
+    "Name": "Thirukkovil 1",
+    "MPA Code": "TK/10",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-060",
+    "GN Code": "060",
+    "Name": "Thirukkovil 2",
+    "MPA Code": "TK/10/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-065",
+    "GN Code": "065",
+    "Name": "Vinayagapuram04",
+    "MPA Code": "TK/10A/3",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-070",
+    "GN Code": "070",
+    "Name": "Vinayagapuram-01",
+    "MPA Code": "TK/10A",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-075",
+    "GN Code": "075",
+    "Name": "Vinayagapuram-02",
+    "MPA Code": "TK/10A/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-080",
+    "GN Code": "080",
+    "Name": "Thirukkovil 4",
+    "MPA Code": "TK/10E/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-085",
+    "GN Code": "085",
+    "Name": "Kanchirankuda",
+    "MPA Code": "TK/10D/1",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-090",
+    "GN Code": "090",
+    "Name": "Kanchikudiyaru",
+    "MPA Code": "TK/10B",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-095",
+    "GN Code": "095",
+    "Name": "Vinayagapuram-03",
+    "MPA Code": "TK/10A/2",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-100",
+    "GN Code": "100",
+    "Name": "Sangamankiramam",
+    "MPA Code": "TK/10D",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-105",
+    "GN Code": "105",
+    "Name": "Thandiyadi",
+    "MPA Code": "TK/10C",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-45-110",
+    "GN Code": "110",
+    "Name": "Thangavelayuthapuram",
+    "MPA Code": "TK/10E",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Thirukkovil"
+  },
+  {
+    "LIFe Code": "5-2-48-005",
+    "GN Code": "005",
+    "Name": "Sangaman Kandy",
+    "MPA Code": "P/22",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-010",
+    "GN Code": "010",
+    "Name": "Sinna Ulla",
+    "MPA Code": "P/18",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-015",
+    "GN Code": "015",
+    "Name": "Sinna Puthukudiruppu",
+    "MPA Code": "P/06",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-020",
+    "GN Code": "020",
+    "Name": "Victor Estate Unit 2",
+    "MPA Code": "P/17",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-025",
+    "GN Code": "025",
+    "Name": "Vattivelly",
+    "MPA Code": "P/11",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-030",
+    "GN Code": "030",
+    "Name": "Victor Estate Unit 1",
+    "MPA Code": "P/16",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-035",
+    "GN Code": "035",
+    "Name": "Razak Moulana Nagar",
+    "MPA Code": "P/27",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-040",
+    "GN Code": "040",
+    "Name": "Sarvothayapuram",
+    "MPA Code": "P/05",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-045",
+    "GN Code": "045",
+    "Name": "Pothuvil 02 - Unit II",
+    "MPA Code": "P/08",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-050",
+    "GN Code": "050",
+    "Name": "Kundumadu",
+    "MPA Code": "P/09",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-055",
+    "GN Code": "055",
+    "Name": "Pothuvil 01  - Unit II",
+    "MPA Code": "P/02",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-060",
+    "GN Code": "060",
+    "Name": "Pakkiyawathe Unit 2",
+    "MPA Code": "P/14",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-065",
+    "GN Code": "065",
+    "Name": "Pasarichchenai",
+    "MPA Code": "P/19",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-070",
+    "GN Code": "070",
+    "Name": "Pottuvil Town",
+    "MPA Code": "P/12",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-075",
+    "GN Code": "075",
+    "Name": "Pakkiyawatta Unit 1",
+    "MPA Code": "P/13",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-080",
+    "GN Code": "080",
+    "Name": "Komari Unit 02",
+    "MPA Code": "P/24",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-085",
+    "GN Code": "085",
+    "Name": "Komari unit 01",
+    "MPA Code": "P/23",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-090",
+    "GN Code": "090",
+    "Name": "Kalappukattu",
+    "MPA Code": "P/15",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-095",
+    "GN Code": "095",
+    "Name": "Jalaldeen Square",
+    "MPA Code": "P/04",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-100",
+    "GN Code": "100",
+    "Name": "Hithayapuram Unit 2",
+    "MPA Code": "P/21",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-105",
+    "GN Code": "105",
+    "Name": "Hithayapuram Unit1",
+    "MPA Code": "P/20",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-110",
+    "GN Code": "110",
+    "Name": "Kanakar Kiramam",
+    "MPA Code": "P/25",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-115",
+    "GN Code": "115",
+    "Name": "Hijra Nagar",
+    "MPA Code": "P/26",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-120",
+    "GN Code": "120",
+    "Name": "Pottuvil 01 - Unit I",
+    "MPA Code": "P/01",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-125",
+    "GN Code": "125",
+    "Name": "Madhuranchenai",
+    "MPA Code": "P/03",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-130",
+    "GN Code": "130",
+    "Name": "Inspector Etham",
+    "MPA Code": "P/10",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-48-135",
+    "GN Code": "135",
+    "Name": "Pottuvil 02 -  Unit 1",
+    "MPA Code": "P/07",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Pothuvil"
+  },
+  {
+    "LIFe Code": "5-2-51-005",
+    "GN Code": "005",
+    "Name": "Kandahindagama",
+    "MPA Code": "PP/13",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Lahugala"
+  },
+  {
+    "LIFe Code": "5-2-51-010",
+    "GN Code": "010",
+    "Name": "Hulannuge West",
+    "MPA Code": "PP/12",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Lahugala"
+  },
+  {
+    "LIFe Code": "5-2-51-015",
+    "GN Code": "015",
+    "Name": "Hulannuge",
+    "MPA Code": "PP/11",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Lahugala"
+  },
+  {
+    "LIFe Code": "5-2-51-020",
+    "GN Code": "020",
+    "Name": "Lahugala Peranigama",
+    "MPA Code": "PP/10",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Lahugala"
+  },
+  {
+    "LIFe Code": "5-2-51-025",
+    "GN Code": "025",
+    "Name": "Lahugala",
+    "MPA Code": "PP/09",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Lahugala"
+  },
+  {
+    "LIFe Code": "5-2-51-030",
+    "GN Code": "030",
+    "Name": "Dewalagoda",
+    "MPA Code": "PP/08",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Lahugala"
+  },
+  {
+    "LIFe Code": "5-2-51-035",
+    "GN Code": "035",
+    "Name": "Pansalgoda",
+    "MPA Code": "PP/07",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Lahugala"
+  },
+  {
+    "LIFe Code": "5-2-51-040",
+    "GN Code": "040",
+    "Name": "Panama West",
+    "MPA Code": "PP/03",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Lahugala"
+  },
+  {
+    "LIFe Code": "5-2-51-045",
+    "GN Code": "045",
+    "Name": "Shasthrawela",
+    "MPA Code": "PP/06",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Lahugala"
+  },
+  {
+    "LIFe Code": "5-2-51-050",
+    "GN Code": "050",
+    "Name": "Panama Central",
+    "MPA Code": "PP/05",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Lahugala"
+  },
+  {
+    "LIFe Code": "5-2-51-055",
+    "GN Code": "055",
+    "Name": "Panama North",
+    "MPA Code": "PP/04",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Lahugala"
+  },
+  {
+    "LIFe Code": "5-2-51-060",
+    "GN Code": "060",
+    "Name": "Panama South",
+    "MPA Code": "PP/02",
+    "Province": "Eastern",
+    "District": "Ampara",
+    "DivisionalSecretariat": "Lahugala"
+  }
+]

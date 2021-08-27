@@ -1,0 +1,6376 @@
+[
+  {
+    "LIFeCode": "7-1-03-005",
+    "GN_Code": "005",
+    "Name": "Buddhangala",
+    "MPA_Code": "005",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Padaviya"
+  },
+  {
+    "LIFeCode": "7-1-03-010",
+    "GN_Code": "010",
+    "Name": "Elikibulagala",
+    "MPA_Code": "007",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Padaviya"
+  },
+  {
+    "LIFeCode": "7-1-03-015",
+    "GN_Code": "015",
+    "Name": "Abayapura",
+    "MPA_Code": "009",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Padaviya"
+  },
+  {
+    "LIFeCode": "7-1-03-020",
+    "GN_Code": "020",
+    "Name": "Maithreepura",
+    "MPA_Code": "008",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Padaviya"
+  },
+  {
+    "LIFeCode": "7-1-03-025",
+    "GN_Code": "025",
+    "Name": "Parakramapura",
+    "MPA_Code": "006",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Padaviya"
+  },
+  {
+    "LIFeCode": "7-1-03-030",
+    "GN_Code": "030",
+    "Name": "'B' yaya",
+    "MPA_Code": "004",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Padaviya"
+  },
+  {
+    "LIFeCode": "7-1-03-035",
+    "GN_Code": "035",
+    "Name": "Bisokotuwa",
+    "MPA_Code": "001",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Padaviya"
+  },
+  {
+    "LIFeCode": "7-1-03-040",
+    "GN_Code": "040",
+    "Name": "Sudharshanagama",
+    "MPA_Code": "003",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Padaviya"
+  },
+  {
+    "LIFeCode": "7-1-03-045",
+    "GN_Code": "045",
+    "Name": "Balayawewa",
+    "MPA_Code": "015",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Padaviya"
+  },
+  {
+    "LIFeCode": "7-1-03-050",
+    "GN_Code": "050",
+    "Name": "Mahasenpura",
+    "MPA_Code": "012",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Padaviya"
+  },
+  {
+    "LIFeCode": "7-1-03-055",
+    "GN_Code": "055",
+    "Name": "Urewa",
+    "MPA_Code": "011",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Padaviya"
+  },
+  {
+    "LIFeCode": "7-1-03-060",
+    "GN_Code": "060",
+    "Name": "Kubukwewa",
+    "MPA_Code": "010",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Padaviya"
+  },
+  {
+    "LIFeCode": "7-1-03-065",
+    "GN_Code": "065",
+    "Name": "Ruwanpura",
+    "MPA_Code": "013",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Padaviya"
+  },
+  {
+    "LIFeCode": "7-1-03-070",
+    "GN_Code": "070",
+    "Name": "Bogahawewa",
+    "MPA_Code": "014",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Padaviya"
+  },
+  {
+    "LIFeCode": "7-1-03-075",
+    "GN_Code": "075",
+    "Name": "Padaviya",
+    "MPA_Code": "002",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Padaviya"
+  },
+  {
+    "LIFeCode": "7-1-06-005",
+    "GN_Code": "005",
+    "Name": "Halmillawatiya",
+    "MPA_Code": "027",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-010",
+    "GN_Code": "010",
+    "Name": "Kanugahawewa",
+    "MPA_Code": "028",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-015",
+    "GN_Code": "015",
+
+    "Name": "Herathhalmillewa",
+    "MPA_Code": "035",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-020",
+    "GN_Code": "020",
+    "Name": "Bellankadawala",
+    "MPA_Code": "037",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-025",
+    "GN_Code": "025",
+    "Name": "Punchimudagama",
+    "MPA_Code": "038",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-030",
+    "GN_Code": "030",
+    "Name": "Wahalkada D 6",
+    "MPA_Code": "041",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-035",
+    "GN_Code": "035",
+    "Name": "Wahalkada D 5",
+    "MPA_Code": "040",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-040",
+    "GN_Code": "040",
+    "Name": "Wahalkada D 4",
+    "MPA_Code": "039",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-045",
+    "GN_Code": "045",
+    "Name": "Kahatagollewa",
+    "MPA_Code": "036",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-050",
+    "GN_Code": "050",
+    "Name": "Thammannawa",
+    "MPA_Code": "034",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-055",
+    "GN_Code": "055",
+    "Name": "Kunchuttuwa",
+    "MPA_Code": "026",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-060",
+    "GN_Code": "060",
+    "Name": "Galawewa",
+    "MPA_Code": "030",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-065",
+    "GN_Code": "065",
+    "Name": "Thiththagonewa",
+    "MPA_Code": "033",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-070",
+    "GN_Code": "070",
+    "Name": "Kurulugama",
+    "MPA_Code": "032",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-075",
+    "GN_Code": "075",
+
+    "Name": "Sinhala Etaweerawewa",
+    "MPA_Code": "022",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-080",
+    "GN_Code": "080",
+    "Name": "Ethalviddawewa",
+    "MPA_Code": "029",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-085",
+    "GN_Code": "085",
+    "Name": "Gonumeriyawa",
+    "MPA_Code": "025",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-090",
+    "GN_Code": "090",
+    "Name": "Kabithigollewa",
+    "MPA_Code": "018",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-095",
+    "GN_Code": "095",
+
+    "Name": "Ihala Usgollewa",
+    "MPA_Code": "023",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-100",
+    "GN_Code": "100",
+    "Name": "Aiyathigewewa",
+    "MPA_Code": "024",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-105",
+    "GN_Code": "105",
+    "Name": "Bandaraulpatha",
+    "MPA_Code": "031",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-110",
+    "GN_Code": "110",
+    "Name": "Kiriketuwawe",
+    "MPA_Code": "021",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-115",
+    "GN_Code": "115",
+    "Name": "Gonuhaddenawa",
+    "MPA_Code": "019",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-120",
+    "GN_Code": "120",
+    "Name": "Thibiriwewa",
+    "MPA_Code": "017",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-125",
+    "GN_Code": "125",
+    "Name": "Kirimatiyawa",
+    "MPA_Code": "016",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-06-130",
+    "GN_Code": "130",
+    "Name": "Watthewewa",
+    "MPA_Code": "020",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kebithigollewa"
+  },
+  {
+    "LIFeCode": "7-1-09-005",
+    "GN_Code": "005",
+    "Name": "Prabodagama",
+    "MPA_Code": "043",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-010",
+    "GN_Code": "010",
+
+    "Name": "Paranahalmillawa",
+    "MPA_Code": "045",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-015",
+    "GN_Code": "015",
+    "Name": "Loolugaswewa",
+    "MPA_Code": "053",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-020",
+    "GN_Code": "020",
+    "Name": "Puhudiula",
+    "MPA_Code": "044",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-025",
+    "GN_Code": "025",
+    "Name": "Hirallugama",
+    "MPA_Code": "054",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-030",
+    "GN_Code": "030",
+    "Name": "Athakada",
+    "MPA_Code": "055",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-035",
+    "GN_Code": "035",
+    "Name": "Ataweeragollewa",
+    "MPA_Code": "056",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-040",
+    "GN_Code": "040",
+
+    "Name": "Kadawathrambaya",
+    "MPA_Code": "052",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-045",
+    "GN_Code": "045",
+
+    "Name": "Mahakumbukgollewa",
+    "MPA_Code": "046",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-050",
+    "GN_Code": "050",
+    "Name": "Kidawarankulama",
+    "MPA_Code": "042",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-055",
+    "GN_Code": "055",
+    "Name": "Anekattiya",
+    "MPA_Code": "048",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-060",
+    "GN_Code": "060",
+    "Name": "Periyakulama",
+    "MPA_Code": "049",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-065",
+    "GN_Code": "065",
+    "Name": "Poonawa",
+    "MPA_Code": "047",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-070",
+    "GN_Code": "070",
+    "Name": "Isinbessagama",
+    "MPA_Code": "058",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-075",
+    "GN_Code": "075",
+    "Name": "Mahadiulwewa",
+    "MPA_Code": "057",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-080",
+    "GN_Code": "080",
+    "Name": "Kidagalegama",
+    "MPA_Code": "073",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-085",
+    "GN_Code": "085",
+    "Name": "Moragoda",
+    "MPA_Code": "074",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-090",
+    "GN_Code": "090",
+    "Name": "Unagasewewa",
+    "MPA_Code": "075",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-095",
+    "GN_Code": "095",
+    "Name": "Kirigalwewa",
+    "MPA_Code": "072",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-100",
+    "GN_Code": "100",
+    "Name": "Agunochchiya",
+    "MPA_Code": "071",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-105",
+    "GN_Code": "105",
+
+    "Name": "Akirikanda",
+    "MPA_Code": "059",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-110",
+    "GN_Code": "110",
+
+    "Name": "Rail Way Town",
+    "MPA_Code": "061",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-115",
+    "GN_Code": "115",
+    "Name": "Kadawathgama",
+    "MPA_Code": "060",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-120",
+    "GN_Code": "120",
+
+    "Name": "Kudakubukgollewa",
+    "MPA_Code": "051",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-125",
+    "GN_Code": "125",
+    "Name": "Yakawewa",
+    "MPA_Code": "050",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-130",
+    "GN_Code": "130",
+
+    "Name": "Thammennaelawaka",
+    "MPA_Code": "063",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-135",
+    "GN_Code": "135",
+    "Name": "Pulelliya",
+    "MPA_Code": "062",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-140",
+    "GN_Code": "140",
+    "Name": "Viralmuruppuwa",
+    "MPA_Code": "064",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-145",
+    "GN_Code": "145",
+    "Name": "Walpola",
+    "MPA_Code": "065",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-150",
+    "GN_Code": "150",
+    "Name": "Katuwela",
+    "MPA_Code": "066",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-155",
+    "GN_Code": "155",
+    "Name": "Medawachchiya - West",
+    "MPA_Code": "067",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-160",
+    "GN_Code": "160",
+
+    "Name": "Medawachchiya  - East",
+    "MPA_Code": "068",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-165",
+    "GN_Code": "165",
+
+    "Name": "Kanadaradiulwewa",
+    "MPA_Code": "069",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-170",
+    "GN_Code": "170",
+    "Name": "Halabagaswewa",
+    "MPA_Code": "070",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-175",
+    "GN_Code": "175",
+
+    "Name": "Sangilikanandarawa",
+    "MPA_Code": "078",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-180",
+    "GN_Code": "180",
+    "Name": "Lindawewa",
+    "MPA_Code": "077",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-09-185",
+    "GN_Code": "185",
+    "Name": "Karambankulama",
+    "MPA_Code": "076",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Medawachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-005",
+    "GN_Code": "005",
+    "Name": "Dematamalgama",
+    "MPA_Code": "367",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-010",
+    "GN_Code": "010",
+    "Name": "Thantirimale",
+    "MPA_Code": "366",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-015",
+    "GN_Code": "015",
+    "Name": "Nelumwila",
+    "MPA_Code": "368",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-020",
+    "GN_Code": "020",
+    "Name": "Sadamaleliya",
+    "MPA_Code": "369",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-025",
+    "GN_Code": "025",
+    "Name": "Thuppitiyawa",
+    "MPA_Code": "372",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-030",
+    "GN_Code": "030",
+    "Name": "Athdathkalla",
+    "MPA_Code": "370",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-035",
+    "GN_Code": "035",
+    "Name": "Randuwa",
+    "MPA_Code": "363",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-040",
+    "GN_Code": "040",
+    "Name": "Palugaswewa",
+    "MPA_Code": "364",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-045",
+    "GN_Code": "045",
+
+    "Name": "Mannaram Junction",
+    "MPA_Code": "365",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-050",
+    "GN_Code": "050",
+
+    "Name": "Kudavilachchiya",
+    "MPA_Code": "360",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-055",
+    "GN_Code": "055",
+
+    "Name": "Mahavilachchiya",
+    "MPA_Code": "359",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-060",
+    "GN_Code": "060",
+    "Name": "Pemaduwa",
+    "MPA_Code": "362",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-065",
+    "GN_Code": "065",
+    "Name": "Kiralpetiyawa",
+    "MPA_Code": "361",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-070",
+    "GN_Code": "070",
+    "Name": "Navodagama",
+    "MPA_Code": "371",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-075",
+    "GN_Code": "075",
+    "Name": "Oyamaduwa",
+    "MPA_Code": "358",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-080",
+    "GN_Code": "080",
+    "Name": "Halabawewa",
+    "MPA_Code": "357",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-12-085",
+    "GN_Code": "085",
+    "Name": "Dunumadalawa",
+    "MPA_Code": "356",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mahavilachchiya"
+  },
+  {
+    "LIFeCode": "7-1-15-005",
+    "GN_Code": "005",
+    "Name": "Helambagaswewa",
+    "MPA_Code": "306",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-010",
+    "GN_Code": "010",
+    "Name": "Asirikgama",
+    "MPA_Code": "308",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-015",
+    "GN_Code": "015",
+    "Name": "Gambirigaswewa",
+    "MPA_Code": "309",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-020",
+    "GN_Code": "020",
+    "Name": "Aluthgama",
+    "MPA_Code": "307",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-025",
+    "GN_Code": "025",
+    "Name": "Galpottegama",
+    "MPA_Code": "305",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-030",
+    "GN_Code": "030",
+
+    "Name": "Maha Ehetuwewa",
+    "MPA_Code": "288",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-035",
+    "GN_Code": "035",
+    "Name": "Maningamuwa",
+    "MPA_Code": "287",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-040",
+    "GN_Code": "040",
+    "Name": "Elayapatthuwa",
+    "MPA_Code": "286",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-045",
+    "GN_Code": "045",
+    "Name": "Diganegama",
+    "MPA_Code": "289",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-050",
+    "GN_Code": "050",
+    "Name": "Karambewa",
+    "MPA_Code": "303",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-055",
+    "GN_Code": "055",
+    "Name": "Galkadawela",
+    "MPA_Code": "304",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-060",
+    "GN_Code": "060",
+    "Name": "Puwarasankulama",
+    "MPA_Code": "310",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-065",
+    "GN_Code": "065",
+    "Name": "Paniyankadawala",
+    "MPA_Code": "312",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-070",
+    "GN_Code": "070",
+    "Name": "Parasangaswewa",
+    "MPA_Code": "311",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-075",
+    "GN_Code": "075",
+
+    "Name": "Mankadawala",
+    "MPA_Code": "313",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-080",
+    "GN_Code": "080",
+    "Name": "Saliyapura",
+    "MPA_Code": "314",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-085",
+    "GN_Code": "085",
+    "Name": "Ashokaramaya",
+    "MPA_Code": "301",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-090",
+    "GN_Code": "090",
+    "Name": "Perimiyankulama",
+    "MPA_Code": "300",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-095",
+    "GN_Code": "095",
+    "Name": "Katukeliyawa",
+    "MPA_Code": "302",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-100",
+    "GN_Code": "100",
+    "Name": "Pusiyankulama",
+    "MPA_Code": "290",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-105",
+    "GN_Code": "105",
+
+    "Name": "Maha Mankadawala",
+    "MPA_Code": "284",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-110",
+    "GN_Code": "110",
+    "Name": "Ilandagahawewa",
+    "MPA_Code": "285",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-115",
+    "GN_Code": "115",
+
+    "Name": "Vihara Kallanchiya",
+    "MPA_Code": "291",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-120",
+    "GN_Code": "120",
+
+    "Name": "Vihara Palugama",
+    "MPA_Code": "292",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-125",
+    "GN_Code": "125",
+
+    "Name": "Devanampiyatissa Pura",
+    "MPA_Code": "295A",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-130",
+    "GN_Code": "130",
+    "Name": "Abayawewa",
+    "MPA_Code": "294",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-135",
+    "GN_Code": "135",
+    "Name": "Pethispura",
+    "MPA_Code": "298",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-140",
+    "GN_Code": "140",
+
+    "Name": "Bandara  Puliyankulama",
+    "MPA_Code": "319",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-145",
+    "GN_Code": "145",
+
+    "Name": "Jayanthi Gramaya",
+    "MPA_Code": "315",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-150",
+    "GN_Code": "150",
+    "Name": "Theppankulama",
+    "MPA_Code": "316",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-155",
+    "GN_Code": "155",
+    "Name": "Thannayamkulama",
+    "MPA_Code": "317",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-160",
+    "GN_Code": "160",
+
+    "Name": "Saliya Mawatha",
+    "MPA_Code": "318",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-165",
+    "GN_Code": "165",
+
+    "Name": "Scared City",
+    "MPA_Code": "299",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-170",
+    "GN_Code": "170",
+    "Name": "Tisawewa",
+    "MPA_Code": "295",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-175",
+    "GN_Code": "175",
+    "Name": "Wessagiriya",
+    "MPA_Code": "297",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-180",
+    "GN_Code": "180",
+    "Name": "Isurumuniya",
+    "MPA_Code": "296",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-185",
+    "GN_Code": "185",
+    "Name": "Pandulugama",
+    "MPA_Code": "293",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-190",
+    "GN_Code": "190",
+    "Name": "Pahalagama",
+    "MPA_Code": "282",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-195",
+    "GN_Code": "195",
+
+    "Name": "Maha Bulankulama",
+    "MPA_Code": "283",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-15-200",
+    "GN_Code": "200",
+    "Name": "Ulukkulama",
+    "MPA_Code": "281",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha Central"
+  },
+  {
+    "LIFeCode": "7-1-18-005",
+    "GN_Code": "005",
+    "Name": "Kolibendawewa",
+    "MPA_Code": "105",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-010",
+    "GN_Code": "010",
+    "Name": "Medagama",
+    "MPA_Code": "104",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-015",
+    "GN_Code": "015",
+    "Name": "Kadurugasdamana",
+    "MPA_Code": "116",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-020",
+    "GN_Code": "020",
+    "Name": "Siyabalagaswewa",
+    "MPA_Code": "107",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-025",
+    "GN_Code": "025",
+    "Name": "Katukeliyawa",
+    "MPA_Code": "106",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-030",
+    "GN_Code": "030",
+    "Name": "Wahamalgollewa Trak 5",
+    "MPA_Code": "110",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-035",
+    "GN_Code": "035",
+    "Name": "Sangilikanadarawa",
+    "MPA_Code": "111",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-040",
+    "GN_Code": "040",
+    "Name": "Diviyaudabendawewa",
+    "MPA_Code": "103",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-045",
+    "GN_Code": "045",
+    "Name": "Thalgahawewa",
+    "MPA_Code": "084",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-050",
+    "GN_Code": "050",
+    "Name": "Galkandegama",
+    "MPA_Code": "085",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-055",
+    "GN_Code": "055",
+    "Name": "Balahodawewa",
+    "MPA_Code": "086",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-060",
+    "GN_Code": "060",
+    "Name": "Pihimbeyagollewa",
+    "MPA_Code": "081",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-065",
+    "GN_Code": "065",
+    "Name": "Galweeragollewa",
+    "MPA_Code": "079",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-070",
+    "GN_Code": "070",
+    "Name": "Ambagahawewa",
+    "MPA_Code": "080",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-075",
+    "GN_Code": "075",
+    "Name": "Thamarahalmillewa",
+    "MPA_Code": "083",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-080",
+    "GN_Code": "080",
+    "Name": "Wewelketiya",
+    "MPA_Code": "082",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-085",
+    "GN_Code": "085",
+    "Name": "Ihalakolongaswewa",
+    "MPA_Code": "087",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-090",
+    "GN_Code": "090",
+    "Name": "Konakubukwewa",
+    "MPA_Code": "091",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-095",
+    "GN_Code": "095",
+    "Name": "Kedewa",
+    "MPA_Code": "097",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-100",
+    "GN_Code": "100",
+    "Name": "Kallanchiya",
+    "MPA_Code": "089",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-105",
+    "GN_Code": "105",
+    "Name": "Gonewa",
+    "MPA_Code": "092",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-110",
+    "GN_Code": "110",
+    "Name": "Ikirigollewa",
+    "MPA_Code": "102",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-115",
+    "GN_Code": "115",
+    "Name": "Wahamalgollewa",
+    "MPA_Code": "108",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-120",
+    "GN_Code": "120",
+    "Name": "Wahamalgollewa Trak 3",
+    "MPA_Code": "109",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-125",
+    "GN_Code": "125",
+    "Name": "Pallankulama",
+    "MPA_Code": "099",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-130",
+    "GN_Code": "130",
+    "Name": "Mahawewa",
+    "MPA_Code": "114",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-135",
+    "GN_Code": "135",
+    "Name": "Pandukabayapura",
+    "MPA_Code": "115",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-140",
+    "GN_Code": "140",
+    "Name": "Katupuliyankulama",
+    "MPA_Code": "112",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-145",
+    "GN_Code": "145",
+    "Name": "Sandamalgama",
+    "MPA_Code": "113",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-150",
+    "GN_Code": "150",
+    "Name": "Rambewa",
+    "MPA_Code": "100",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-155",
+    "GN_Code": "155",
+    "Name": "Nabadagaswewa",
+    "MPA_Code": "101",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-160",
+    "GN_Code": "160",
+    "Name": "Mahakandarawa South canal Tank 02",
+    "MPA_Code": "093",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-165",
+    "GN_Code": "165",
+    "Name": "Kapirikgama",
+    "MPA_Code": "098",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-170",
+    "GN_Code": "170",
+    "Name": "Peenagama",
+    "MPA_Code": "090",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-175",
+    "GN_Code": "175",
+    "Name": "Meemalwewa",
+    "MPA_Code": "088",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-180",
+    "GN_Code": "180",
+    "Name": "Rotawewa",
+    "MPA_Code": "095",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-185",
+    "GN_Code": "185",
+    "Name": "Kudagama",
+    "MPA_Code": "096",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-18-190",
+    "GN_Code": "190",
+    "Name": "Mahakandarawa South Canal Trak 1",
+    "MPA_Code": "094",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rambewa"
+  },
+  {
+    "LIFeCode": "7-1-21-005",
+    "GN_Code": "005",
+    "Name": "Kirigallawa",
+    "MPA_Code": "226",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-010",
+    "GN_Code": "010",
+    "Name": "Rathmalgahawewa",
+    "MPA_Code": "225",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-015",
+    "GN_Code": "015",
+    "Name": "Kudapattiya",
+    "MPA_Code": "207",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-020",
+    "GN_Code": "020",
+
+    "Name": "Maha Kubukwewa",
+    "MPA_Code": "222",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-025",
+    "GN_Code": "025",
+    "Name": "Palippothana",
+    "MPA_Code": "224",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-030",
+    "GN_Code": "030",
+
+    "Name": "Gonumeru Wewa",
+    "MPA_Code": "223",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-035",
+    "GN_Code": "035",
+    "Name": "Turukkuragama",
+    "MPA_Code": "234",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-040",
+    "GN_Code": "040",
+
+    "Name": "Maha Kiribbewa",
+    "MPA_Code": "233",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-045",
+    "GN_Code": "045",
+
+    "Name": "Maha Galkandegama",
+    "MPA_Code": "235",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-050",
+    "GN_Code": "050",
+    "Name": "Dachchihalmillewa",
+    "MPA_Code": "206",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-055",
+    "GN_Code": "055",
+    "Name": "Maha Halmillewa",
+    "MPA_Code": "208",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-060",
+    "GN_Code": "060",
+    "Name": "Kummukgollewa",
+    "MPA_Code": "209",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-065",
+    "GN_Code": "065",
+    "Name": "Pandarellewa",
+    "MPA_Code": "210",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-070",
+    "GN_Code": "070",
+
+    "Name": "Sampath gama",
+    "MPA_Code": "205",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-075",
+    "GN_Code": "075",
+    "Name": "Thallaththewa",
+    "MPA_Code": "217",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-080",
+    "GN_Code": "080",
+    "Name": "Mahawewa",
+    "MPA_Code": "221",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-085",
+    "GN_Code": "085",
+
+    "Name": "Kahatagasdigiliya East",
+    "MPA_Code": "231",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-090",
+    "GN_Code": "090",
+
+    "Name": "Kahatagasdigiliya West",
+    "MPA_Code": "232",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-095",
+    "GN_Code": "095",
+    "Name": "Kokmaduwa",
+    "MPA_Code": "201",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-100",
+    "GN_Code": "100",
+    "Name": "Moragahawela",
+    "MPA_Code": "202",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-105",
+    "GN_Code": "105",
+    "Name": "Samadigama",
+    "MPA_Code": "204",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-110",
+    "GN_Code": "110",
+    "Name": "Mekichchawa",
+    "MPA_Code": "203",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-115",
+    "GN_Code": "115",
+    "Name": "Ranpathwila",
+    "MPA_Code": "196",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-120",
+    "GN_Code": "120",
+
+    "Name": "Bethkewa  Thulana",
+    "MPA_Code": "198",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-125",
+    "GN_Code": "125",
+
+    "Name": "Maha Messallawa",
+    "MPA_Code": "230",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-130",
+    "GN_Code": "130",
+    "Name": "Kohobagaskada",
+    "MPA_Code": "220",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-135",
+    "GN_Code": "135",
+    "Name": "Koonwewa",
+    "MPA_Code": "216",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-140",
+    "GN_Code": "140",
+    "Name": "Abagahawewa",
+    "MPA_Code": "213",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-145",
+    "GN_Code": "145",
+    "Name": "Panwella",
+    "MPA_Code": "211",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-150",
+    "GN_Code": "150",
+    "Name": "Mee - Kumbukwewa",
+    "MPA_Code": "212",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-155",
+    "GN_Code": "155",
+    "Name": "Tikkampothana",
+    "MPA_Code": "214",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-160",
+    "GN_Code": "160",
+
+    "Name": "Punchi Halmillewa",
+    "MPA_Code": "219",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-165",
+    "GN_Code": "165",
+    "Name": "Weligollewa",
+    "MPA_Code": "218",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-170",
+    "GN_Code": "170",
+    "Name": "Diwulwewa",
+    "MPA_Code": "215",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-175",
+    "GN_Code": "175",
+    "Name": "Diganhalmillewa",
+    "MPA_Code": "229",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-180",
+    "GN_Code": "180",
+    "Name": "Kelanikawewa",
+    "MPA_Code": "227",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-185",
+    "GN_Code": "185",
+    "Name": "Nelugollakada",
+    "MPA_Code": "228",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-190",
+    "GN_Code": "190",
+    "Name": "Ellawewa",
+    "MPA_Code": "197",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-195",
+    "GN_Code": "195",
+    "Name": "Nekutunu Wewa",
+    "MPA_Code": "200",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-21-200",
+    "GN_Code": "200",
+
+    "Name": "KanadaraRathmale",
+    "MPA_Code": "199",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kahatagasdigiliya"
+  },
+  {
+    "LIFeCode": "7-1-24-005",
+    "GN_Code": "005",
+    "Name": "Wahalkada D2",
+    "MPA_Code": "145",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-010",
+    "GN_Code": "010",
+    "Name": "Wahalkada D 1",
+    "MPA_Code": "144",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-015",
+    "GN_Code": "015",
+    "Name": "Maradanmaduwa",
+    "MPA_Code": "146",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-020",
+    "GN_Code": "020",
+
+    "Name": "Pahala Divulwewa",
+    "MPA_Code": "141",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-025",
+    "GN_Code": "025",
+    "Name": "Weerasole",
+    "MPA_Code": "139",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-030",
+    "GN_Code": "030",
+    "Name": "Anaolondewa",
+    "MPA_Code": "138",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-035",
+    "GN_Code": "035",
+    "Name": "Kapugollewa",
+    "MPA_Code": "140",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-040",
+    "GN_Code": "040",
+    "Name": "Wagollakada",
+    "MPA_Code": "143",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-045",
+    "GN_Code": "045",
+    "Name": "Dutuwewa",
+    "MPA_Code": "142",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-050",
+    "GN_Code": "050",
+    "Name": "Morawewa",
+    "MPA_Code": "135",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-055",
+    "GN_Code": "055",
+    "Name": "Thawalamhammillewa",
+    "MPA_Code": "137",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-060",
+    "GN_Code": "060",
+    "Name": "Thimbiriathathawala",
+    "MPA_Code": "123",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-065",
+    "GN_Code": "065",
+    "Name": "Nikawewa",
+    "MPA_Code": "121",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-070",
+    "GN_Code": "070",
+    "Name": "Welimuwapothana",
+    "MPA_Code": "120",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-075",
+    "GN_Code": "075",
+    "Name": "Kiulekada",
+    "MPA_Code": "129",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-080",
+    "GN_Code": "080",
+    "Name": "Puhulewewa",
+    "MPA_Code": "134",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-085",
+    "GN_Code": "085",
+    "Name": "Rathmale",
+    "MPA_Code": "147",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-090",
+    "GN_Code": "090",
+    "Name": "Welangahaulpatha",
+    "MPA_Code": "148",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-095",
+    "GN_Code": "095",
+    "Name": "Maradankadawala",
+    "MPA_Code": "133",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-100",
+    "GN_Code": "100",
+    "Name": "Horowpothana",
+    "MPA_Code": "128",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-105",
+    "GN_Code": "105",
+
+    "Name": "Medawachchiya Handiya",
+    "MPA_Code": "130",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-110",
+    "GN_Code": "110",
+    "Name": "Mukkarawewa",
+    "MPA_Code": "122",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-115",
+    "GN_Code": "115",
+
+    "Name": "Ihala Angunachchiya",
+    "MPA_Code": "119",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-120",
+    "GN_Code": "120",
+    "Name": "Rasnakawewa",
+    "MPA_Code": "118",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-125",
+    "GN_Code": "125",
+    "Name": "Sinhala Walahaviddawewa",
+    "MPA_Code": "117",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-130",
+    "GN_Code": "130",
+    "Name": "Gammahegewewa",
+    "MPA_Code": "124",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-135",
+    "GN_Code": "135",
+    "Name": "Morakewewa",
+    "MPA_Code": "127",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-140",
+    "GN_Code": "140",
+    "Name": "Nanumillawewa",
+    "MPA_Code": "131",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-145",
+    "GN_Code": "145",
+    "Name": "Thirappankadawala",
+    "MPA_Code": "136",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-150",
+    "GN_Code": "150",
+    "Name": "Parangiyawadiya",
+    "MPA_Code": "149",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-155",
+    "GN_Code": "155",
+    "Name": "Nabadawewa",
+    "MPA_Code": "152",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-160",
+    "GN_Code": "160",
+    "Name": "Puliyankadawala",
+    "MPA_Code": "150",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-165",
+    "GN_Code": "165",
+    "Name": "Wilewewa",
+    "MPA_Code": "132",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-170",
+    "GN_Code": "170",
+    "Name": "Wadigawewa",
+    "MPA_Code": "126",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-175",
+    "GN_Code": "175",
+    "Name": "Kalpe",
+    "MPA_Code": "125",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-180",
+    "GN_Code": "180",
+    "Name": "Dekethipothana",
+    "MPA_Code": "153",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-185",
+    "GN_Code": "185",
+    "Name": "Dematawewa",
+    "MPA_Code": "154",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-24-190",
+    "GN_Code": "190",
+    "Name": "Diyathithawewa",
+    "MPA_Code": "151",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Horowpothana"
+  },
+  {
+    "LIFeCode": "7-1-27-005",
+    "GN_Code": "005",
+    "Name": "Konwewa",
+    "MPA_Code": "156",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-010",
+    "GN_Code": "010",
+    "Name": "Ellawewa",
+    "MPA_Code": "178",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-015",
+    "GN_Code": "015",
+
+    "Name": "Katarampura",
+    "MPA_Code": "168",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-020",
+    "GN_Code": "020",
+    "Name": "Dutuwewa",
+    "MPA_Code": "165",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-025",
+    "GN_Code": "025",
+
+    "Name": "Perattupalagama",
+    "MPA_Code": "167",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-030",
+    "GN_Code": "030",
+    "Name": "Kokawewa",
+    "MPA_Code": "169",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-035",
+    "GN_Code": "035",
+
+    "Name": "Dutuwewa Peranigama",
+    "MPA_Code": "166",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-040",
+    "GN_Code": "040",
+    "Name": "21 Colany East",
+    "MPA_Code": "180",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-045",
+    "GN_Code": "045",
+    "Name": "21 Colany West",
+    "MPA_Code": "179",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-050",
+    "GN_Code": "050",
+    "Name": "Ulpathgama",
+    "MPA_Code": "158",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-055",
+    "GN_Code": "055",
+    "Name": "Upuldeniya",
+    "MPA_Code": "155",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-060",
+    "GN_Code": "060",
+    "Name": "Himbutugollewa",
+    "MPA_Code": "157",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-065",
+    "GN_Code": "065",
+    "Name": "Mailagaswewa",
+    "MPA_Code": "159",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-070",
+    "GN_Code": "070",
+    "Name": "Ihalagama",
+    "MPA_Code": "163",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-075",
+    "GN_Code": "075",
+    "Name": "Galenbindunuwewa",
+    "MPA_Code": "162",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-080",
+    "GN_Code": "080",
+    "Name": "Karuwalagaswewa",
+    "MPA_Code": "173",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-085",
+    "GN_Code": "085",
+    "Name": "Palugollagama",
+    "MPA_Code": "170",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-090",
+    "GN_Code": "090",
+
+    "Name": "Aluth Divulwewa",
+    "MPA_Code": "171",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-095",
+    "GN_Code": "095",
+    "Name": "Gatalawa",
+    "MPA_Code": "172",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-100",
+    "GN_Code": "100",
+    "Name": "Hurulunikawewa",
+    "MPA_Code": "176",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-105",
+    "GN_Code": "105",
+    "Name": "Ilukbadayagama",
+    "MPA_Code": "164",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-110",
+    "GN_Code": "110",
+
+    "Name": "Kuda Galenbindunuwewa",
+    "MPA_Code": "161",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-115",
+    "GN_Code": "115",
+    "Name": "Thammennagama",
+    "MPA_Code": "160",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-120",
+    "GN_Code": "120",
+    "Name": "Siwalakulama",
+    "MPA_Code": "182",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-125",
+    "GN_Code": "125",
+    "Name": "Gomarankalla",
+    "MPA_Code": "190",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-130",
+    "GN_Code": "130",
+    "Name": "Hurulunikawewa Yaya 03",
+    "MPA_Code": "177",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-135",
+    "GN_Code": "135",
+    "Name": "Kumbukwewa",
+    "MPA_Code": "175",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-140",
+    "GN_Code": "140",
+    "Name": "Janasirigama",
+    "MPA_Code": "174",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-145",
+    "GN_Code": "145",
+
+    "Name": "Kurunegala Colony",
+    "MPA_Code": "194",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-150",
+    "GN_Code": "150",
+
+    "Name": "Nuwaragam Colony",
+    "MPA_Code": "195",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-155",
+    "GN_Code": "155",
+
+    "Name": "Hurulu Jayapura",
+    "MPA_Code": "189",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-160",
+    "GN_Code": "160",
+
+    "Name": "Sunanda Mawatha",
+    "MPA_Code": "191",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-165",
+    "GN_Code": "165",
+    "Name": "Galwaduwagama",
+    "MPA_Code": "183",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-170",
+    "GN_Code": "170",
+    "Name": "Muriyakadawala",
+    "MPA_Code": "181",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-175",
+    "GN_Code": "175",
+
+    "Name": "Ihala Galkulama",
+    "MPA_Code": "187",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-180",
+    "GN_Code": "180",
+    "Name": "Hurulumeegahapattiya",
+    "MPA_Code": "188",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-185",
+    "GN_Code": "185",
+
+    "Name": "Nuwaraeliya  Colany",
+    "MPA_Code": "193",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-190",
+    "GN_Code": "190",
+    "Name": "Pandikaramaduwa",
+    "MPA_Code": "192",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-195",
+    "GN_Code": "195",
+    "Name": "Yakalla",
+    "MPA_Code": "186",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-200",
+    "GN_Code": "200",
+    "Name": "Manankattiya",
+    "MPA_Code": "184",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-27-205",
+    "GN_Code": "205",
+    "Name": "Wannankulama",
+    "MPA_Code": "185",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galenbindunuwewa"
+  },
+  {
+    "LIFeCode": "7-1-30-005",
+    "GN_Code": "005",
+    "Name": "Ukkulankulama",
+    "MPA_Code": "588",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-010",
+    "GN_Code": "010",
+    "Name": "Mahakanadarawa - yaya 03",
+    "MPA_Code": "585",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-015",
+    "GN_Code": "015",
+    "Name": "Mahakandarawa - Yaya 02",
+    "MPA_Code": "584",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-020",
+    "GN_Code": "020",
+
+    "Name": "Mahakanadarawa - Yaya 01",
+    "MPA_Code": "583",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-025",
+    "GN_Code": "025",
+    "Name": "Maradankulama",
+    "MPA_Code": "586",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-030",
+    "GN_Code": "030",
+    "Name": "Doramadalawa",
+    "MPA_Code": "587",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-035",
+    "GN_Code": "035",
+    "Name": "Kunchikulam",
+    "MPA_Code": "573",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-040",
+    "GN_Code": "040",
+
+    "Name": "Henawaththa",
+    "MPA_Code": "572",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-045",
+    "GN_Code": "045",
+    "Name": "Nuwarawewa",
+    "MPA_Code": "571",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-050",
+    "GN_Code": "050",
+    "Name": "Kurundankulam",
+    "MPA_Code": "574",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-055",
+    "GN_Code": "055",
+    "Name": "Kannattiya",
+    "MPA_Code": "575",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-060",
+    "GN_Code": "060",
+    "Name": "Mihintale",
+    "MPA_Code": "577",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-065",
+    "GN_Code": "065",
+    "Name": "Ruwangama",
+    "MPA_Code": "578",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-070",
+    "GN_Code": "070",
+    "Name": "Namalwewa",
+    "MPA_Code": "579",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-075",
+    "GN_Code": "075",
+    "Name": "Bogahayaya",
+    "MPA_Code": "582",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-080",
+    "GN_Code": "080",
+    "Name": "Pothana",
+    "MPA_Code": "564",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-085",
+    "GN_Code": "085",
+    "Name": "Seeppukulama",
+    "MPA_Code": "566",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-090",
+    "GN_Code": "090",
+    "Name": "Thammennawa",
+    "MPA_Code": "567",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-095",
+    "GN_Code": "095",
+    "Name": "Kasamaduwa",
+    "MPA_Code": "568",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-100",
+    "GN_Code": "100",
+    "Name": "Katukeliyawa",
+    "MPA_Code": "569",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-105",
+    "GN_Code": "105",
+    "Name": "Kattambuwagama",
+    "MPA_Code": "570",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-110",
+    "GN_Code": "110",
+    "Name": "Kahapathwilagama",
+    "MPA_Code": "576",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-115",
+    "GN_Code": "115",
+    "Name": "Ihalagama",
+    "MPA_Code": "565",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-120",
+    "GN_Code": "120",
+    "Name": "Maradankalla",
+    "MPA_Code": "581",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-30-125",
+    "GN_Code": "125",
+    "Name": "Wellaragama",
+    "MPA_Code": "580",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Mihinthale"
+  },
+  {
+    "LIFeCode": "7-1-33-005",
+    "GN_Code": "005",
+
+    "Name": "Nuwarawewa",
+    "MPA_Code": "250",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-010",
+    "GN_Code": "010",
+    "Name": "Stage (I) part (I)",
+    "MPA_Code": "248",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-015",
+    "GN_Code": "015",
+
+    "Name": "Maha Kalaththawa",
+    "MPA_Code": "279",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-020",
+    "GN_Code": "020",
+    "Name": "Thariyankulama",
+    "MPA_Code": "280",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-025",
+    "GN_Code": "025",
+    "Name": "Nelunkanniya",
+    "MPA_Code": "278",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-030",
+    "GN_Code": "030",
+
+    "Name": "Kuda Nelumkulama",
+    "MPA_Code": "277",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-035",
+    "GN_Code": "035",
+    "Name": "Keerikkulama",
+    "MPA_Code": "276",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-040",
+    "GN_Code": "040",
+    "Name": "Thammannapura",
+    "MPA_Code": "241",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-045",
+    "GN_Code": "045",
+    "Name": "Vannithammannawa",
+    "MPA_Code": "239",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-050",
+    "GN_Code": "050",
+    "Name": "Thammannakulama",
+    "MPA_Code": "240",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-055",
+    "GN_Code": "055",
+    "Name": "Stage (I) part (II)",
+    "MPA_Code": "249",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-060",
+    "GN_Code": "060",
+    "Name": "Stage (II) part (III)",
+    "MPA_Code": "253",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-065",
+    "GN_Code": "065",
+    "Name": "Stage (II) part (II)",
+    "MPA_Code": "252",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-070",
+    "GN_Code": "070",
+
+    "Name": "Pothanegama",
+    "MPA_Code": "258",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-075",
+    "GN_Code": "075",
+    "Name": "Stage (III) part (III)",
+    "MPA_Code": "257",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-080",
+    "GN_Code": "080",
+    "Name": "Stage (II) part (I)",
+    "MPA_Code": "251",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-085",
+    "GN_Code": "085",
+    "Name": "Stage (II) part (IV)",
+    "MPA_Code": "254",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-090",
+    "GN_Code": "090",
+    "Name": "Vanniyankulama (IV)",
+    "MPA_Code": "245",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-095",
+    "GN_Code": "095",
+    "Name": "Vanniyankulama (V)",
+    "MPA_Code": "246",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-100",
+    "GN_Code": "100",
+    "Name": "Vanniyankulama (VI)",
+    "MPA_Code": "247",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-105",
+    "GN_Code": "105",
+    "Name": "Ghanikulama",
+    "MPA_Code": "238",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-110",
+    "GN_Code": "110",
+    "Name": "Kawarakkulama",
+    "MPA_Code": "275",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-115",
+    "GN_Code": "115",
+
+    "Name": "MahaPaladikulama",
+    "MPA_Code": "237",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-120",
+    "GN_Code": "120",
+    "Name": "Stage(III) part (I)",
+    "MPA_Code": "255",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-125",
+    "GN_Code": "125",
+    "Name": "Stage(III)  part (II)",
+    "MPA_Code": "256",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-130",
+    "GN_Code": "130",
+    "Name": "Vanniyankulama (III)",
+    "MPA_Code": "244",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-135",
+    "GN_Code": "135",
+    "Name": "Vanniyankulama (I)",
+    "MPA_Code": "242",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-140",
+    "GN_Code": "140",
+    "Name": "Vanniyankulama (II)",
+    "MPA_Code": "243",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-33-145",
+    "GN_Code": "145",
+    "Name": "Sucharithagama",
+    "MPA_Code": "236",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nuwaragam Palatha East"
+  },
+  {
+    "LIFeCode": "7-1-36-005",
+    "GN_Code": "005",
+    "Name": "Kibulakada",
+    "MPA_Code": "262",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-010",
+    "GN_Code": "010",
+
+    "Name": "Srawasthipura",
+    "MPA_Code": "259",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-015",
+    "GN_Code": "015",
+
+    "Name": "Kuda Nelubewa",
+    "MPA_Code": "265",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-020",
+    "GN_Code": "020",
+
+    "Name": "Srawasthiwaththa",
+    "MPA_Code": "260",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-025",
+    "GN_Code": "025",
+    "Name": "Aluthwewa",
+    "MPA_Code": "261",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-030",
+    "GN_Code": "030",
+    "Name": "Amane",
+    "MPA_Code": "263",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-035",
+    "GN_Code": "035",
+
+    "Name": "Maha Nelubewa",
+    "MPA_Code": "266",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-040",
+    "GN_Code": "040",
+    "Name": "Diwulwewa",
+    "MPA_Code": "264",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-045",
+    "GN_Code": "045",
+    "Name": "Hidogama",
+    "MPA_Code": "271",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-050",
+    "GN_Code": "050",
+    "Name": "Pawakkulama",
+    "MPA_Code": "267",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-055",
+    "GN_Code": "055",
+
+    "Name": "Uthuru Kaluwila",
+    "MPA_Code": "274",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-060",
+    "GN_Code": "060",
+    "Name": "Madawalagama",
+    "MPA_Code": "273",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-065",
+    "GN_Code": "065",
+    "Name": "Nachchaduwa",
+    "MPA_Code": "535",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-070",
+    "GN_Code": "070",
+
+    "Name": "Nachchaduwa New Town",
+    "MPA_Code": "536",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-075",
+    "GN_Code": "075",
+
+    "Name": "Palayakulama",
+    "MPA_Code": "538",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-080",
+    "GN_Code": "080",
+
+    "Name": "Suhadagama",
+    "MPA_Code": "272",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-085",
+    "GN_Code": "085",
+    "Name": "Thuruwila",
+    "MPA_Code": "270",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-090",
+    "GN_Code": "090",
+    "Name": "Kaluarachchiyagama",
+    "MPA_Code": "268",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-36-095",
+    "GN_Code": "095",
+    "Name": "Pahalawewa",
+    "MPA_Code": "269",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nachchadoowa"
+  },
+  {
+    "LIFeCode": "7-1-39-005",
+    "GN_Code": "005",
+    "Name": "Kukulkatuwa",
+    "MPA_Code": "320",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-010",
+    "GN_Code": "010",
+    "Name": "Ittikulama",
+    "MPA_Code": "321",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-015",
+    "GN_Code": "015",
+    "Name": "Ranorawa",
+    "MPA_Code": "322",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-020",
+    "GN_Code": "020",
+    "Name": "Mahalindawewa",
+    "MPA_Code": "323",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-025",
+    "GN_Code": "025",
+    "Name": "Bogahawewa",
+    "MPA_Code": "324",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-030",
+    "GN_Code": "030",
+    "Name": "Ambagahawewa",
+    "MPA_Code": "325",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-035",
+    "GN_Code": "035",
+    "Name": "Ehetuwagama",
+    "MPA_Code": "326",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-040",
+    "GN_Code": "040",
+    "Name": "Thalgaswewa",
+    "MPA_Code": "332",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-045",
+    "GN_Code": "045",
+    "Name": "Hunuvilagama",
+    "MPA_Code": "327",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-050",
+    "GN_Code": "050",
+    "Name": "Horuvila",
+    "MPA_Code": "355",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-055",
+    "GN_Code": "055",
+    "Name": "Lindawewa",
+    "MPA_Code": "331",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-060",
+    "GN_Code": "060",
+    "Name": "Kusumpura",
+    "MPA_Code": "333",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-065",
+    "GN_Code": "065",
+    "Name": "Mudithagama",
+    "MPA_Code": "337",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-070",
+    "GN_Code": "070",
+
+    "Name": "Ralapanawagama",
+    "MPA_Code": "338",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-075",
+    "GN_Code": "075",
+    "Name": "Adampane",
+    "MPA_Code": "340",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-080",
+    "GN_Code": "080",
+    "Name": "Andarawewa",
+    "MPA_Code": "341",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-085",
+    "GN_Code": "085",
+
+    "Name": "Ralapanawa Jnapadaya",
+    "MPA_Code": "339",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-090",
+    "GN_Code": "090",
+    "Name": "Nochchiyagama",
+    "MPA_Code": "334",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-095",
+    "GN_Code": "095",
+    "Name": "Dunudambuwewa",
+    "MPA_Code": "336",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-100",
+    "GN_Code": "100",
+    "Name": "Thimbiriwewa",
+    "MPA_Code": "328",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-105",
+    "GN_Code": "105",
+    "Name": "Katupathwewa",
+    "MPA_Code": "329",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-110",
+    "GN_Code": "110",
+
+    "Name": "Pahala Maragahawewa",
+    "MPA_Code": "330",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-115",
+    "GN_Code": "115",
+    "Name": "Nelawagama",
+    "MPA_Code": "349",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-120",
+    "GN_Code": "120",
+
+    "Name": "Pahala Halmillewa",
+    "MPA_Code": "350",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-125",
+    "GN_Code": "125",
+    "Name": "Halmillakulama",
+    "MPA_Code": "335",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-130",
+    "GN_Code": "130",
+    "Name": "Dunupothagama",
+    "MPA_Code": "345",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-135",
+    "GN_Code": "135",
+    "Name": "Dombawalagama",
+    "MPA_Code": "346",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-140",
+    "GN_Code": "140",
+    "Name": "Pahamunegama",
+    "MPA_Code": "342",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-145",
+    "GN_Code": "145",
+    "Name": "Nawakkulama",
+    "MPA_Code": "343",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-150",
+    "GN_Code": "150",
+    "Name": "Galadiulwewa",
+    "MPA_Code": "344",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-155",
+    "GN_Code": "155",
+    "Name": "Jayagama",
+    "MPA_Code": "347",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-160",
+    "GN_Code": "160",
+    "Name": "Amunukole",
+    "MPA_Code": "348",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-165",
+    "GN_Code": "165",
+    "Name": "Mihiripura",
+    "MPA_Code": "352",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-170",
+    "GN_Code": "170",
+
+    "Name": "Pahala Kedithokkuwa",
+    "MPA_Code": "351",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-175",
+    "GN_Code": "175",
+    "Name": "Rankethgama",
+    "MPA_Code": "353",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-39-180",
+    "GN_Code": "180",
+    "Name": "Ottappuwa",
+    "MPA_Code": "354",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Nochchiyagama"
+  },
+  {
+    "LIFeCode": "7-1-42-005",
+    "GN_Code": "005",
+    "Name": "Track 13 - 18",
+    "MPA_Code": "456",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-010",
+    "GN_Code": "010",
+    "Name": "Track 16  - 17",
+    "MPA_Code": "458",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-015",
+    "GN_Code": "015",
+    "Name": "Veheragala",
+    "MPA_Code": "455",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-020",
+    "GN_Code": "020",
+    "Name": "Track 12",
+    "MPA_Code": "454",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-025",
+    "GN_Code": "025",
+    "Name": "Thulana Track 9 - 10",
+    "MPA_Code": "452",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-030",
+    "GN_Code": "030",
+    "Name": "Track 11",
+    "MPA_Code": "453",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-035",
+    "GN_Code": "035",
+    "Name": "Track 15",
+    "MPA_Code": "457",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-040",
+    "GN_Code": "040",
+    "Name": "Gemunupura",
+    "MPA_Code": "451",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-045",
+    "GN_Code": "045",
+    "Name": "Track 07",
+    "MPA_Code": "450",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-050",
+    "GN_Code": "050",
+    "Name": "Thumbullegama",
+    "MPA_Code": "449",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-055",
+    "GN_Code": "055",
+    "Name": "Randenigama",
+    "MPA_Code": "447",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-060",
+    "GN_Code": "060",
+    "Name": "Track 4",
+    "MPA_Code": "445",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-065",
+    "GN_Code": "065",
+    "Name": "Track 3",
+    "MPA_Code": "444",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-070",
+    "GN_Code": "070",
+    "Name": "Naigala",
+    "MPA_Code": "443",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-075",
+    "GN_Code": "075",
+    "Name": "Thissapura",
+    "MPA_Code": "446",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-080",
+    "GN_Code": "080",
+    "Name": "Maha Thibrikalla",
+    "MPA_Code": "442",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-085",
+    "GN_Code": "085",
+    "Name": "Angamuwa",
+    "MPA_Code": "448",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-090",
+    "GN_Code": "090",
+    "Name": "4 12 Kanuwa",
+    "MPA_Code": "441",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-095",
+    "GN_Code": "095",
+    "Name": "Sirimapura",
+    "MPA_Code": "440",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-100",
+    "GN_Code": "100",
+    "Name": "Pantiyawa",
+    "MPA_Code": "439",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-42-105",
+    "GN_Code": "105",
+    "Name": "Kalundegama",
+    "MPA_Code": "438",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Rajanganaya"
+  },
+  {
+    "LIFeCode": "7-1-45-005",
+    "GN_Code": "005",
+    "Name": "Koongollewa",
+    "MPA_Code": "431",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-010",
+    "GN_Code": "010",
+    "Name": "Kalegama",
+    "MPA_Code": "433",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-015",
+    "GN_Code": "015",
+    "Name": "Pahalagama",
+    "MPA_Code": "432",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-020",
+    "GN_Code": "020",
+    "Name": "Solama",
+    "MPA_Code": "434",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-025",
+    "GN_Code": "025",
+
+    "Name": "Maha Bellankadawala",
+    "MPA_Code": "435",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-030",
+    "GN_Code": "030",
+    "Name": "Eriyagama",
+    "MPA_Code": "430",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-035",
+    "GN_Code": "035",
+    "Name": "Delnegama",
+    "MPA_Code": "436",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-040",
+    "GN_Code": "040",
+
+    "Name": "Kuda Bellankada",
+    "MPA_Code": "437",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-045",
+    "GN_Code": "045",
+    "Name": "Koonwewa",
+    "MPA_Code": "425",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-050",
+    "GN_Code": "050",
+    "Name": "Jayasirigama",
+    "MPA_Code": "423",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-055",
+    "GN_Code": "055",
+    "Name": "Lunuwewa",
+    "MPA_Code": "422",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-060",
+    "GN_Code": "060",
+    "Name": "Veheragala",
+    "MPA_Code": "426",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-065",
+    "GN_Code": "065",
+    "Name": "Thammennagama",
+    "MPA_Code": "424",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-070",
+    "GN_Code": "070",
+    "Name": "Nallachiya",
+    "MPA_Code": "421",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-075",
+    "GN_Code": "075",
+    "Name": "Galviharawewa",
+    "MPA_Code": "429",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-080",
+    "GN_Code": "080",
+    "Name": "Thelhiriyawa",
+    "MPA_Code": "427",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-085",
+    "GN_Code": "085",
+    "Name": "Ikiriwewa",
+    "MPA_Code": "419",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-090",
+    "GN_Code": "090",
+    "Name": "Musalpitiya",
+    "MPA_Code": "420",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-100",
+    "GN_Code": "100",
+    "Name": "Thispanepura",
+    "MPA_Code": "428",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-105",
+    "GN_Code": "105",
+    "Name": "Makulewa",
+    "MPA_Code": "415",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-110",
+    "GN_Code": "110",
+    "Name": "Thammennawa",
+    "MPA_Code": "417",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-115",
+    "GN_Code": "115",
+    "Name": "Mudungoda",
+    "MPA_Code": "416",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-120",
+    "GN_Code": "120",
+    "Name": "Helambawewa",
+    "MPA_Code": "413",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-125",
+    "GN_Code": "125",
+    "Name": "Hureegaswewa",
+    "MPA_Code": "412",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-130",
+    "GN_Code": "130",
+    "Name": "Weliyawa",
+    "MPA_Code": "414",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-45-135",
+    "GN_Code": "135",
+    "Name": "Thambuttegama 418",
+    "MPA_Code": "",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thambuttegama"
+  },
+  {
+    "LIFeCode": "7-1-48-005",
+    "GN_Code": "005",
+    "Name": "Daladapura",
+    "MPA_Code": "408",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-010",
+    "GN_Code": "010",
+    "Name": "Pahala Talawa",
+    "MPA_Code": "407",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-015",
+    "GN_Code": "015",
+    "Name": "Moragoda",
+    "MPA_Code": "405",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-020",
+    "GN_Code": "020",
+    "Name": "Kumbukgahawewa",
+    "MPA_Code": "410",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-025",
+    "GN_Code": "025",
+
+    "Name": "Nawa Hanguranketha",
+    "MPA_Code": "409",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-030",
+    "GN_Code": "030",
+    "Name": "Hirigollegama",
+    "MPA_Code": "411",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-035",
+    "GN_Code": "035",
+    "Name": "Karagahawewa",
+    "MPA_Code": "406",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-040",
+    "GN_Code": "040",
+
+    "Name": "Ihala Thalawa",
+    "MPA_Code": "404",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-045",
+    "GN_Code": "045",
+    "Name": "Hinguruwewa",
+    "MPA_Code": "401",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-050",
+    "GN_Code": "050",
+    "Name": "Korakahawewa",
+    "MPA_Code": "402",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-055",
+    "GN_Code": "055",
+    "Name": "Kurunduwewa",
+    "MPA_Code": "403",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-060",
+    "GN_Code": "060",
+    "Name": "Meegassegama",
+    "MPA_Code": "400",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-065",
+    "GN_Code": "065",
+    "Name": "Kiralogama",
+    "MPA_Code": "398",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-070",
+    "GN_Code": "070",
+    "Name": "Kadurugaswewa",
+    "MPA_Code": "389",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-075",
+    "GN_Code": "075",
+    "Name": "Palugaswewa",
+    "MPA_Code": "391",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-080",
+    "GN_Code": "080",
+    "Name": "Ketakale",
+    "MPA_Code": "399",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-085",
+    "GN_Code": "085",
+    "Name": "Rajjallegama",
+    "MPA_Code": "396",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-090",
+    "GN_Code": "090",
+    "Name": "Eliyadivulwewa",
+    "MPA_Code": "388",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-095",
+    "GN_Code": "095",
+
+    "Name": "Ihala Siyambalewa",
+    "MPA_Code": "390",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-100",
+    "GN_Code": "100",
+    "Name": "Eppawala",
+    "MPA_Code": "373",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-105",
+    "GN_Code": "105",
+    "Name": "Mawathawewa",
+    "MPA_Code": "377",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-110",
+    "GN_Code": "110",
+    "Name": "Nallamudawa",
+    "MPA_Code": "376",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-115",
+    "GN_Code": "115",
+    "Name": "Medagama",
+    "MPA_Code": "381",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-120",
+    "GN_Code": "120",
+    "Name": "Kiriamunakole",
+    "MPA_Code": "375",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-125",
+    "GN_Code": "125",
+    "Name": "Kadigawa",
+    "MPA_Code": "374",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-130",
+    "GN_Code": "130",
+    "Name": "Mediyawa",
+    "MPA_Code": "392",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-135",
+    "GN_Code": "135",
+    "Name": "Katiyawa Track 02",
+    "MPA_Code": "387",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-140",
+    "GN_Code": "140",
+    "Name": "Galwaduwagama",
+    "MPA_Code": "394",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-145",
+    "GN_Code": "145",
+
+    "Name": "Ihala Halmillewa",
+    "MPA_Code": "395",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-150",
+    "GN_Code": "150",
+    "Name": "Adhiranigama",
+    "MPA_Code": "397",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-155",
+    "GN_Code": "155",
+    "Name": "Katiyawa Track 10",
+    "MPA_Code": "385",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-160",
+    "GN_Code": "160",
+    "Name": "Katiyawa Track 09",
+    "MPA_Code": "384",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-165",
+    "GN_Code": "165",
+    "Name": "Katiyawa Track 01",
+    "MPA_Code": "386",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-170",
+    "GN_Code": "170",
+    "Name": "Edagala",
+    "MPA_Code": "393",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-175",
+    "GN_Code": "175",
+    "Name": "Kelesiyambalewa",
+    "MPA_Code": "380",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-180",
+    "GN_Code": "180",
+    "Name": "Galmaduwa",
+    "MPA_Code": "378",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-185",
+    "GN_Code": "185",
+    "Name": "Ihalagama",
+    "MPA_Code": "382",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-190",
+    "GN_Code": "190",
+    "Name": "Keledivulwewa",
+    "MPA_Code": "379",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-48-195",
+    "GN_Code": "195",
+    "Name": "Katiyawa Track 06",
+    "MPA_Code": "383",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thalawa"
+  },
+  {
+    "LIFeCode": "7-1-51-005",
+    "GN_Code": "005",
+    "Name": "Karuwalagaswewa",
+    "MPA_Code": "527",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-010",
+    "GN_Code": "010",
+    "Name": "Galkulama",
+    "MPA_Code": "526",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-015",
+    "GN_Code": "015",
+    "Name": "Gnanikkulama",
+    "MPA_Code": "528",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-020",
+    "GN_Code": "020",
+    "Name": "Perimiyankulama",
+    "MPA_Code": "529",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-025",
+    "GN_Code": "025",
+
+    "Name": "Wannankulama",
+    "MPA_Code": "521",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-030",
+    "GN_Code": "030",
+    "Name": "Uttimaduwa",
+    "MPA_Code": "520",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-035",
+    "GN_Code": "035",
+    "Name": "Dematawewa",
+    "MPA_Code": "525",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-040",
+    "GN_Code": "040",
+    "Name": "Pairimaduwa",
+    "MPA_Code": "524",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-045",
+    "GN_Code": "045",
+    "Name": "Kuttikulama",
+    "MPA_Code": "530",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-050",
+    "GN_Code": "050",
+    "Name": "Puliyankulama",
+    "MPA_Code": "531",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-055",
+    "GN_Code": "055",
+
+    "Name": "Mawathawewa",
+    "MPA_Code": "522",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-060",
+    "GN_Code": "060",
+
+    "Name": "Periyakulama",
+    "MPA_Code": "523",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-065",
+    "GN_Code": "065",
+
+    "Name": "Ethungama - South",
+    "MPA_Code": "552",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-070",
+    "GN_Code": "070",
+    "Name": "Meewellewa",
+    "MPA_Code": "553",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-075",
+    "GN_Code": "075",
+
+    "Name": "Ethungama - North",
+    "MPA_Code": "551",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-080",
+    "GN_Code": "080",
+
+    "Name": "Aluthpunchikulama",
+    "MPA_Code": "534",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-085",
+    "GN_Code": "085",
+    "Name": "Wannammaduwa",
+    "MPA_Code": "549",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-090",
+    "GN_Code": "090",
+
+    "Name": "Tirappane Kadaweediya",
+    "MPA_Code": "532",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-095",
+    "GN_Code": "095",
+    "Name": "Thirappane Gama",
+    "MPA_Code": "533",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-100",
+    "GN_Code": "100",
+    "Name": "Sembukulama",
+    "MPA_Code": "550",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-105",
+    "GN_Code": "105",
+    "Name": "Wellamudawa",
+    "MPA_Code": "539",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-110",
+    "GN_Code": "110",
+    "Name": "Selesthimaduwa",
+    "MPA_Code": "537",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-115",
+    "GN_Code": "115",
+    "Name": "Indigahawewa",
+    "MPA_Code": "547",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-120",
+    "GN_Code": "120",
+    "Name": "Paindikulama",
+    "MPA_Code": "554",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-125",
+    "GN_Code": "125",
+    "Name": "Walagambahuwa",
+    "MPA_Code": "562",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-130",
+    "GN_Code": "130",
+    "Name": "Mahakanumulla",
+    "MPA_Code": "540",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-135",
+    "GN_Code": "135",
+    "Name": "Alisthana",
+    "MPA_Code": "548",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-140",
+    "GN_Code": "140",
+    "Name": "Dayagama",
+    "MPA_Code": "563",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-145",
+    "GN_Code": "145",
+
+    "Name": "Wanamal Uyana",
+    "MPA_Code": "561",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-150",
+    "GN_Code": "150",
+    "Name": "Manakkulama",
+    "MPA_Code": "541",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-155",
+    "GN_Code": "155",
+
+    "Name": "Pethirambewa",
+    "MPA_Code": "542",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-160",
+    "GN_Code": "160",
+    "Name": "Kattamurichchana",
+    "MPA_Code": "546",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-165",
+    "GN_Code": "165",
+    "Name": "Kandupagama",
+    "MPA_Code": "556",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-170",
+    "GN_Code": "170",
+    "Name": "Labunoruwa",
+    "MPA_Code": "555",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-175",
+    "GN_Code": "175",
+
+    "Name": "Pahala Ambathale",
+    "MPA_Code": "557",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-180",
+    "GN_Code": "180",
+
+    "Name": "Ihala Ambathale",
+    "MPA_Code": "545",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-185",
+    "GN_Code": "185",
+    "Name": "Alagollewa",
+    "MPA_Code": "543",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-190",
+    "GN_Code": "190",
+    "Name": "Muriyakadawala",
+    "MPA_Code": "544",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-195",
+    "GN_Code": "195",
+    "Name": "Amunnichchiya",
+    "MPA_Code": "558",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-200",
+    "GN_Code": "200",
+    "Name": "Sandapagama",
+    "MPA_Code": "559",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-51-205",
+    "GN_Code": "205",
+    "Name": "Uththupitiya",
+    "MPA_Code": "560",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Thirappane"
+  },
+  {
+    "LIFeCode": "7-1-54-005",
+    "GN_Code": "005",
+    "Name": "Nawakkulama",
+    "MPA_Code": "605",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-010",
+    "GN_Code": "010",
+    "Name": "Moragoda",
+    "MPA_Code": "606",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-015",
+    "GN_Code": "015",
+    "Name": "Mahadiwulwewa",
+    "MPA_Code": "608",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-020",
+    "GN_Code": "020",
+    "Name": "Keeriyagaswewa",
+    "MPA_Code": "607",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-025",
+    "GN_Code": "025",
+
+    "Name": "Ihala Puliyankulama",
+    "MPA_Code": "616",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-030",
+    "GN_Code": "030",
+    "Name": "Kele-Puliyankulama",
+    "MPA_Code": "615",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-035",
+    "GN_Code": "035",
+    "Name": "Maradankadawela",
+    "MPA_Code": "617",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-040",
+    "GN_Code": "040",
+    "Name": "Thoruwewa",
+    "MPA_Code": "614",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-045",
+    "GN_Code": "045",
+    "Name": "Maminiyawa",
+    "MPA_Code": "613",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-050",
+    "GN_Code": "050",
+
+    "Name": "Maminiya - Rambewa",
+    "MPA_Code": "611",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-055",
+    "GN_Code": "055",
+    "Name": "Ganewalpola",
+    "MPA_Code": "610",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-060",
+    "GN_Code": "060",
+    "Name": "Heenukkiriyawa",
+    "MPA_Code": "609",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-065",
+    "GN_Code": "065",
+    "Name": "Ebulgaswewa",
+    "MPA_Code": "632",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-070",
+    "GN_Code": "070",
+    "Name": "Olukaranda",
+    "MPA_Code": "618",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-075",
+    "GN_Code": "075",
+    "Name": "Kollankuttigama",
+    "MPA_Code": "612",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-080",
+    "GN_Code": "080",
+    "Name": "Mudaperumagama",
+    "MPA_Code": "619",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-085",
+    "GN_Code": "085",
+    "Name": "Ihalagama",
+    "MPA_Code": "621",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-090",
+    "GN_Code": "090",
+    "Name": "Shasthrawelliya",
+    "MPA_Code": "622",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-095",
+    "GN_Code": "095",
+
+    "Name": "Railway Town",
+    "MPA_Code": "620",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-100",
+    "GN_Code": "100",
+
+    "Name": "Maradankadawala Road",
+    "MPA_Code": "627",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-105",
+    "GN_Code": "105",
+    "Name": "Maldenipura",
+    "MPA_Code": "631",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-110",
+    "GN_Code": "110",
+    "Name": "Mankadawala",
+    "MPA_Code": "630",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-115",
+    "GN_Code": "115",
+    "Name": "Medawewa",
+    "MPA_Code": "633",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-120",
+    "GN_Code": "120",
+    "Name": "Pothanegama",
+    "MPA_Code": "634",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-125",
+    "GN_Code": "125",
+
+    "Name": "Kuda Kekirawa",
+    "MPA_Code": "629",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-130",
+    "GN_Code": "130",
+
+    "Name": "Kekirawa Town",
+    "MPA_Code": "628",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-135",
+    "GN_Code": "135",
+    "Name": "Malawa",
+    "MPA_Code": "626",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-140",
+    "GN_Code": "140",
+    "Name": "Neekiniyawa",
+    "MPA_Code": "625",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-145",
+    "GN_Code": "145",
+    "Name": "Mailagaswewa",
+    "MPA_Code": "624",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-150",
+    "GN_Code": "150",
+    "Name": "Karukkankulama",
+    "MPA_Code": "623",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-155",
+    "GN_Code": "155",
+    "Name": "Olombewa",
+    "MPA_Code": "638",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-160",
+    "GN_Code": "160",
+
+    "Name": "Maha Kekirawa",
+    "MPA_Code": "637",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-165",
+    "GN_Code": "165",
+    "Name": "Kumbukwewa",
+    "MPA_Code": "635",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-170",
+    "GN_Code": "170",
+    "Name": "Rathmallewa",
+    "MPA_Code": "636",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-175",
+    "GN_Code": "175",
+    "Name": "Medagama",
+    "MPA_Code": "640",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-180",
+    "GN_Code": "180",
+    "Name": "Korasagalla",
+    "MPA_Code": "639",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-185",
+    "GN_Code": "185",
+    "Name": "Unagollewa",
+    "MPA_Code": "643",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-190",
+    "GN_Code": "190",
+    "Name": "Horapola",
+    "MPA_Code": "644",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-195",
+    "GN_Code": "195",
+    "Name": "Dambewatana",
+    "MPA_Code": "657",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-200",
+    "GN_Code": "200",
+    "Name": "Undurawa",
+    "MPA_Code": "656",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-205",
+    "GN_Code": "205",
+    "Name": "Nidigama",
+    "MPA_Code": "645",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-210",
+    "GN_Code": "210",
+
+    "Name": "Maha Elagamuwa",
+    "MPA_Code": "641",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-215",
+    "GN_Code": "215",
+    "Name": "Pallehigura",
+    "MPA_Code": "642",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-220",
+    "GN_Code": "220",
+    "Name": "Nelbagama",
+    "MPA_Code": "649",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-225",
+    "GN_Code": "225",
+    "Name": "Murungahitikanda",
+    "MPA_Code": "647",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-230",
+    "GN_Code": "230",
+    "Name": "Baravila",
+    "MPA_Code": "646",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-235",
+    "GN_Code": "235",
+    "Name": "Bandarapathana",
+    "MPA_Code": "655",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-240",
+    "GN_Code": "240",
+    "Name": "Kotagala",
+    "MPA_Code": "648",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-245",
+    "GN_Code": "245",
+    "Name": "Madatugama",
+    "MPA_Code": "650",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-250",
+    "GN_Code": "250",
+    "Name": "Dunumadalawa",
+    "MPA_Code": "654",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-255",
+    "GN_Code": "255",
+    "Name": "Kandalama  - West",
+    "MPA_Code": "653",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-260",
+    "GN_Code": "260",
+    "Name": "Kithulhitiyawa",
+    "MPA_Code": "652",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-54-265",
+    "GN_Code": "265",
+    "Name": "Kandalama - East",
+    "MPA_Code": "651",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Kekirawa"
+  },
+  {
+    "LIFeCode": "7-1-57-005",
+    "GN_Code": "005",
+    "Name": "Mithreegama",
+    "MPA_Code": "600",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palugaswewa"
+  },
+  {
+    "LIFeCode": "7-1-57-010",
+    "GN_Code": "010",
+    "Name": "Maharabawewa",
+    "MPA_Code": "599",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palugaswewa"
+  },
+  {
+    "LIFeCode": "7-1-57-015",
+    "GN_Code": "015",
+    "Name": "Madawala",
+    "MPA_Code": "598",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palugaswewa"
+  },
+  {
+    "LIFeCode": "7-1-57-020",
+    "GN_Code": "020",
+    "Name": "Eppawala",
+    "MPA_Code": "597",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palugaswewa"
+  },
+  {
+    "LIFeCode": "7-1-57-025",
+    "GN_Code": "025",
+    "Name": "Galapitagala",
+    "MPA_Code": "604",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palugaswewa"
+  },
+  {
+    "LIFeCode": "7-1-57-030",
+    "GN_Code": "030",
+    "Name": "Kumbukwewa",
+    "MPA_Code": "596",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palugaswewa"
+  },
+  {
+    "LIFeCode": "7-1-57-035",
+    "GN_Code": "035",
+    "Name": "Senadiriyagama",
+    "MPA_Code": "602",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palugaswewa"
+  },
+  {
+    "LIFeCode": "7-1-57-040",
+    "GN_Code": "040",
+    "Name": "Horovila",
+    "MPA_Code": "603",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palugaswewa"
+  },
+  {
+    "LIFeCode": "7-1-57-045",
+    "GN_Code": "045",
+    "Name": "Palugaswewa",
+    "MPA_Code": "601",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palugaswewa"
+  },
+  {
+    "LIFeCode": "7-1-57-050",
+    "GN_Code": "050",
+    "Name": "Kudarambawewa",
+    "MPA_Code": "595",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palugaswewa"
+  },
+  {
+    "LIFeCode": "7-1-57-055",
+    "GN_Code": "055",
+    "Name": "Habarana",
+    "MPA_Code": "589",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palugaswewa"
+  },
+  {
+    "LIFeCode": "7-1-57-060",
+    "GN_Code": "060",
+    "Name": "Demunnewa",
+    "MPA_Code": "594",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palugaswewa"
+  },
+  {
+    "LIFeCode": "7-1-57-065",
+    "GN_Code": "065",
+    "Name": "Kelewa",
+    "MPA_Code": "593",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palugaswewa"
+  },
+  {
+    "LIFeCode": "7-1-57-070",
+    "GN_Code": "070",
+    "Name": "Vayaulpatha",
+    "MPA_Code": "592",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palugaswewa"
+  },
+  {
+    "LIFeCode": "7-1-57-075",
+    "GN_Code": "075",
+    "Name": "Hiriwadunna",
+    "MPA_Code": "591",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palugaswewa"
+  },
+  {
+    "LIFeCode": "7-1-57-080",
+    "GN_Code": "080",
+    "Name": "Kashyapagama",
+    "MPA_Code": "590",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palugaswewa"
+  },
+  {
+    "LIFeCode": "7-1-60-005",
+    "GN_Code": "005",
+    "Name": "Dikwewa-Senapura",
+    "MPA_Code": "500",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-010",
+    "GN_Code": "010",
+
+    "Name": "Galagedara Gama",
+    "MPA_Code": "512",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-015",
+    "GN_Code": "015",
+
+    "Name": "Senapura Gama",
+    "MPA_Code": "504",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-020",
+    "GN_Code": "020",
+
+    "Name": "Mahailuppallama",
+    "MPA_Code": "499",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-025",
+    "GN_Code": "025",
+    "Name": "Gonapathirawa",
+    "MPA_Code": "509",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-030",
+    "GN_Code": "030",
+    "Name": "Sangattewa",
+    "MPA_Code": "498",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-035",
+    "GN_Code": "035",
+    "Name": "Kadiyangalla",
+    "MPA_Code": "510",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-040",
+    "GN_Code": "040",
+    "Name": "Ipalogama",
+    "MPA_Code": "501",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-045",
+    "GN_Code": "045",
+    "Name": "Manewa",
+    "MPA_Code": "502",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-050",
+    "GN_Code": "050",
+    "Name": "Heenukwe Gama",
+    "MPA_Code": "518",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-055",
+    "GN_Code": "055",
+
+    "Name": "Dampelassagama",
+    "MPA_Code": "517",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-060",
+    "GN_Code": "060",
+
+    "Name": "Ihala Kagama",
+    "MPA_Code": "519",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-065",
+    "GN_Code": "065",
+    "Name": "Kunchikulama",
+    "MPA_Code": "514",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-070",
+    "GN_Code": "070",
+
+    "Name": "Hiripitiyagama",
+    "MPA_Code": "515",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-075",
+    "GN_Code": "075",
+    "Name": "Aswedduma",
+    "MPA_Code": "506",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-080",
+    "GN_Code": "080",
+
+    "Name": "Ganthiriya Gama",
+    "MPA_Code": "503",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-085",
+    "GN_Code": "085",
+    "Name": "Galwanguwa",
+    "MPA_Code": "507",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-090",
+    "GN_Code": "090",
+    "Name": "Wedinigama",
+    "MPA_Code": "511",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-095",
+    "GN_Code": "095",
+    "Name": "Narangallegama",
+    "MPA_Code": "505",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-100",
+    "GN_Code": "100",
+    "Name": "Kallanchiyagama",
+    "MPA_Code": "508",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-105",
+    "GN_Code": "105",
+
+    "Name": "Aluth Dambewatana",
+    "MPA_Code": "513",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-110",
+    "GN_Code": "110",
+    "Name": "R.B. 2 Ela Kagama",
+    "MPA_Code": "497",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-115",
+    "GN_Code": "115",
+    "Name": "2 Ela Kagama",
+    "MPA_Code": "496",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-120",
+    "GN_Code": "120",
+    "Name": "Akkara 500",
+    "MPA_Code": "495",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-125",
+    "GN_Code": "125",
+    "Name": "Amunawetiya",
+    "MPA_Code": "492",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-130",
+    "GN_Code": "130",
+    "Name": "Puliyankulama",
+    "MPA_Code": "516",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-135",
+    "GN_Code": "135",
+    "Name": "Vijithapura",
+    "MPA_Code": "493",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-140",
+    "GN_Code": "140",
+    "Name": "Amanakkattuwa",
+    "MPA_Code": "494",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-145",
+    "GN_Code": "145",
+    "Name": "Kalawewa",
+    "MPA_Code": "490",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-150",
+    "GN_Code": "150",
+    "Name": "Kusalanagama",
+    "MPA_Code": "491",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-155",
+    "GN_Code": "155",
+
+    "Name": "Palugaswewa Farm",
+    "MPA_Code": "489",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-60-160",
+    "GN_Code": "160",
+    "Name": "Walawwegama",
+    "MPA_Code": "488",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Ipalogama"
+  },
+  {
+    "LIFeCode": "7-1-63-005",
+    "GN_Code": "005",
+    "Name": "Namalgamuwa",
+    "MPA_Code": "487A",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-010",
+    "GN_Code": "010",
+    "Name": "Obadayagama",
+    "MPA_Code": "486",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-015",
+    "GN_Code": "015",
+    "Name": "Otunupalandigama",
+    "MPA_Code": "484",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-020",
+    "GN_Code": "020",
+    "Name": "Karuwalagaswewa",
+    "MPA_Code": "481",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-025",
+    "GN_Code": "025",
+
+    "Name": "Usgala Halmillawewa",
+    "MPA_Code": "482",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-030",
+    "GN_Code": "030",
+    "Name": "Helabodugama",
+    "MPA_Code": "478",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-035",
+    "GN_Code": "035",
+    "Name": "Kaththaragama",
+    "MPA_Code": "470",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-040",
+    "GN_Code": "040",
+    "Name": "Bulnewa",
+    "MPA_Code": "479",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-045",
+    "GN_Code": "045",
+
+    "Name": "Thoranegama",
+    "MPA_Code": "480",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-050",
+    "GN_Code": "050",
+    "Name": "Midellewa",
+    "MPA_Code": "483",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-055",
+    "GN_Code": "055",
+
+    "Name": "Ihala Kalankuttiya",
+    "MPA_Code": "485",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-060",
+    "GN_Code": "060",
+
+    "Name": "Pahala Kalankuttiya",
+    "MPA_Code": "487",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-065",
+    "GN_Code": "065",
+    "Name": "Siyambalewa",
+    "MPA_Code": "468",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-070",
+    "GN_Code": "070",
+    "Name": "Lolugaswewa",
+    "MPA_Code": "469",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-075",
+    "GN_Code": "075",
+
+    "Name": "PitiyeYaya",
+    "MPA_Code": "471",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-080",
+    "GN_Code": "080",
+
+    "Name": "Galnewagama",
+    "MPA_Code": "472",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-085",
+    "GN_Code": "085",
+
+    "Name": "Galnewa Town",
+    "MPA_Code": "477",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-090",
+    "GN_Code": "090",
+    "Name": "Malbaligala",
+    "MPA_Code": "475",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-095",
+    "GN_Code": "095",
+
+    "Name": "Handungama",
+    "MPA_Code": "476",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-100",
+    "GN_Code": "100",
+    "Name": "Musnawa",
+    "MPA_Code": "473",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-105",
+    "GN_Code": "105",
+
+    "Name": "Kala-Medawachchiya",
+    "MPA_Code": "466",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-110",
+    "GN_Code": "110",
+
+    "Name": "Kumbukwewa",
+    "MPA_Code": "467",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-115",
+    "GN_Code": "115",
+    "Name": "Kallanchiya",
+    "MPA_Code": "465",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-120",
+    "GN_Code": "120",
+    "Name": "Negama",
+    "MPA_Code": "462",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-125",
+    "GN_Code": "125",
+    "Name": "Werunkulama",
+    "MPA_Code": "461",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-130",
+    "GN_Code": "130",
+    "Name": "Walaswewa",
+    "MPA_Code": "474",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-135",
+    "GN_Code": "135",
+    "Name": "Kandegama",
+    "MPA_Code": "459",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-140",
+    "GN_Code": "140",
+
+    "Name": "Kandulegama",
+    "MPA_Code": "460",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-145",
+    "GN_Code": "145",
+    "Name": "Kandulugamuwa",
+    "MPA_Code": "464",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-63-150",
+    "GN_Code": "150",
+
+    "Name": "Dakunu Siyambalagamuwa",
+    "MPA_Code": "463",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Galnewa"
+  },
+  {
+    "LIFeCode": "7-1-66-005",
+    "GN_Code": "005",
+    "Name": "Nelliyagama",
+    "MPA_Code": "688",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-010",
+    "GN_Code": "010",
+
+    "Name": "Balaluwewa 2",
+    "MPA_Code": "687",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-015",
+    "GN_Code": "015",
+    "Name": "Balaluwewa",
+    "MPA_Code": "686",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-020",
+    "GN_Code": "020",
+    "Name": "Pahalagama",
+    "MPA_Code": "689",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-025",
+    "GN_Code": "025",
+    "Name": "Karawilagala",
+    "MPA_Code": "690",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-030",
+    "GN_Code": "030",
+
+    "Name": "Gamsabhahalmillawewa",
+    "MPA_Code": "691",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-035",
+    "GN_Code": "035",
+    "Name": "Gonadeniyagama",
+    "MPA_Code": "692",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-040",
+    "GN_Code": "040",
+    "Name": "Meewewa",
+    "MPA_Code": "678",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-045",
+    "GN_Code": "045",
+    "Name": "Ambagaswewa",
+    "MPA_Code": "667",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-050",
+    "GN_Code": "050",
+    "Name": "Wambatuwewa",
+    "MPA_Code": "666",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-055",
+    "GN_Code": "055",
+
+    "Name": "Hinguruwewa",
+    "MPA_Code": "679",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-060",
+    "GN_Code": "060",
+    "Name": "Kirindiwettha",
+    "MPA_Code": "677",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-065",
+    "GN_Code": "065",
+
+    "Name": "Aluth Galkiriyagama",
+    "MPA_Code": "680",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-070",
+    "GN_Code": "070",
+    "Name": "Daniyagama",
+    "MPA_Code": "681",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-075",
+    "GN_Code": "075",
+
+    "Name": "Undurawa Halmillawewa",
+    "MPA_Code": "685",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-080",
+    "GN_Code": "080",
+    "Name": "Katukelliyawa",
+    "MPA_Code": "683",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-085",
+    "GN_Code": "085",
+
+    "Name": "Aluth Kadadugama",
+    "MPA_Code": "684",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-090",
+    "GN_Code": "090",
+    "Name": "Ranawa",
+    "MPA_Code": "662",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-095",
+    "GN_Code": "095",
+
+    "Name": "Higuruwelpitiya",
+    "MPA_Code": "663",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-100",
+    "GN_Code": "100",
+    "Name": "Anakatawewa",
+    "MPA_Code": "659",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-105",
+    "GN_Code": "105",
+    "Name": "Giranegama",
+    "MPA_Code": "658",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-110",
+    "GN_Code": "110",
+
+    "Name": "Dammbuluhalmillawewa",
+    "MPA_Code": "661",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-115",
+    "GN_Code": "115",
+    "Name": "Narangaswewa",
+    "MPA_Code": "660",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-120",
+    "GN_Code": "120",
+    "Name": "Ulpathagama",
+    "MPA_Code": "682",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-125",
+    "GN_Code": "125",
+    "Name": "Ellawewa",
+    "MPA_Code": "675",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-130",
+    "GN_Code": "130",
+    "Name": "Andiyagala",
+    "MPA_Code": "670",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-135",
+    "GN_Code": "135",
+    "Name": "Maneruwa",
+    "MPA_Code": "665",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-140",
+    "GN_Code": "140",
+    "Name": "Ipulwehera",
+    "MPA_Code": "664",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-145",
+    "GN_Code": "145",
+    "Name": "Gambirigaswewa",
+    "MPA_Code": "671",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-150",
+    "GN_Code": "150",
+    "Name": "Parawahagama",
+    "MPA_Code": "669",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-155",
+    "GN_Code": "155",
+    "Name": "Kalugala",
+    "MPA_Code": "668",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-160",
+    "GN_Code": "160",
+    "Name": "Pelbediyawa",
+    "MPA_Code": "674",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-165",
+    "GN_Code": "165",
+
+    "Name": "Morettegama",
+    "MPA_Code": "676",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-170",
+    "GN_Code": "170",
+
+    "Name": "Dematagollagama",
+    "MPA_Code": "672",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  },
+  {
+    "LIFeCode": "7-1-66-175",
+    "GN_Code": "175",
+    "Name": "Budugehinna",
+    "MPA_Code": "673",
+    "Province": "North-Central",
+    "District": "Anuradhapura",
+    "DivisionalSecretariat": "Palagala"
+  }
+]
